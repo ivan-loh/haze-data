@@ -1,0 +1,4876 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Kuala_Lumpur",
+  "scale": "Malaysia DOE API",
+  "scale_note": "Malaysia's API differs from US AQI / IQAir values.",
+  "reading_time": "2026-10-19T17:00:00+08:00",
+  "generated_at": "2026-10-19T17:16:54+08:00",
+  "mode": "live",
+  "pj": {
+    "id": "CA19B",
+    "name": "Petaling Jaya",
+    "state": "selangor",
+    "latitude": 3.130875,
+    "longitude": 101.60868,
+    "api": 159,
+    "band": "Unhealthy",
+    "time": "2026-10-19T17:00:00+08:00",
+    "previous_3h_api": 157,
+    "yesterday_same_hour_api": 155
+  },
+  "stations": [
+    {
+      "id": "CA01R",
+      "name": "Kangar",
+      "state": "perlis",
+      "latitude": 6.429928,
+      "longitude": 100.210937,
+      "api": 51,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA02K",
+      "name": "Langkawi",
+      "state": "kedah",
+      "latitude": 6.331608,
+      "longitude": 99.858461,
+      "api": 51,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA03K",
+      "name": "Alor Setar",
+      "state": "kedah",
+      "latitude": 6.13713,
+      "longitude": 100.346857,
+      "api": 59,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA04K",
+      "name": "Sungai Petani",
+      "state": "kedah",
+      "latitude": 5.629709,
+      "longitude": 100.46771,
+      "api": 88,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA05K",
+      "name": "Kulim Hi-Tech",
+      "state": "kedah",
+      "latitude": 5.401634,
+      "longitude": 100.589653,
+      "api": 80,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA06P",
+      "name": "Seberang Jaya",
+      "state": "pulau-pinang",
+      "latitude": 5.398419,
+      "longitude": 100.403976,
+      "api": 83,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA07P",
+      "name": "Seberang Perai",
+      "state": "pulau-pinang",
+      "latitude": 5.329421,
+      "longitude": 100.443457,
+      "api": 80,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA08P",
+      "name": "Minden",
+      "state": "pulau-pinang",
+      "latitude": 5.356226,
+      "longitude": 100.30794,
+      "api": 86,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA09P",
+      "name": "Balik Pulau",
+      "state": "pulau-pinang",
+      "latitude": 5.337128,
+      "longitude": 100.216642,
+      "api": 53,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA10A",
+      "name": "Taiping",
+      "state": "perak",
+      "latitude": 4.898865,
+      "longitude": 100.679133,
+      "api": 79,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA11A",
+      "name": "Tasek Ipoh",
+      "state": "perak",
+      "latitude": 4.629462,
+      "longitude": 101.116669,
+      "api": 151,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA12A",
+      "name": "Pegoh Ipoh",
+      "state": "perak",
+      "latitude": 4.553367,
+      "longitude": 101.080261,
+      "api": 142,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA13A",
+      "name": "Seri Manjung",
+      "state": "perak",
+      "latitude": 4.200385,
+      "longitude": 100.663346,
+      "api": 100,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA14A",
+      "name": "Tanjung Malim",
+      "state": "perak",
+      "latitude": 3.687721,
+      "longitude": 101.524446,
+      "api": 87,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA15W",
+      "name": "Batu Muda",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.212429,
+      "longitude": 101.682218,
+      "api": 165,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA16W",
+      "name": "Cheras",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.10626,
+      "longitude": 101.717931,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA17W",
+      "name": "Putrajaya",
+      "state": "wp-putrajaya",
+      "latitude": 2.915793,
+      "longitude": 101.690946,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA18B",
+      "name": "Kuala Selangor",
+      "state": "selangor",
+      "latitude": 3.321362,
+      "longitude": 101.256249,
+      "api": 94,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA19B",
+      "name": "Petaling Jaya",
+      "state": "selangor",
+      "latitude": 3.130875,
+      "longitude": 101.60868,
+      "api": 159,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA20B",
+      "name": "Shah Alam",
+      "state": "selangor",
+      "latitude": 3.10475,
+      "longitude": 101.556192,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA21B",
+      "name": "Klang",
+      "state": "selangor",
+      "latitude": 3.014899,
+      "longitude": 101.413136,
+      "api": 156,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA22B",
+      "name": "Banting",
+      "state": "selangor",
+      "latitude": 2.816668,
+      "longitude": 101.623043,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA23N",
+      "name": "Nilai",
+      "state": "negeri-sembilan",
+      "latitude": 2.821676,
+      "longitude": 101.81153,
+      "api": 164,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA24N",
+      "name": "Seremban",
+      "state": "negeri-sembilan",
+      "latitude": 2.723441,
+      "longitude": 101.968395,
+      "api": 163,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA25N",
+      "name": "Port Dickson",
+      "state": "negeri-sembilan",
+      "latitude": 2.441332,
+      "longitude": 101.866829,
+      "api": 109,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA26M",
+      "name": "Alor Gajah",
+      "state": "melaka",
+      "latitude": 2.37091,
+      "longitude": 102.223199,
+      "api": 162,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA27M",
+      "name": "Bukit Rambai",
+      "state": "melaka",
+      "latitude": 2.268461,
+      "longitude": 102.193636,
+      "api": 164,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA28M",
+      "name": "Bandaraya Melaka",
+      "state": "melaka",
+      "latitude": 2.190929,
+      "longitude": 102.257066,
+      "api": 160,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA29J",
+      "name": "Segamat",
+      "state": "johor",
+      "latitude": 2.49401,
+      "longitude": 102.863487,
+      "api": 89,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA31J",
+      "name": "Batu Pahat",
+      "state": "johor",
+      "latitude": 1.919098,
+      "longitude": 102.86584,
+      "api": 155,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA32J",
+      "name": "Kluang",
+      "state": "johor",
+      "latitude": 2.036936,
+      "longitude": 103.312179,
+      "api": 98,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA33J",
+      "name": "Larkin",
+      "state": "johor",
+      "latitude": 1.494616,
+      "longitude": 103.735922,
+      "api": 145,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA34J",
+      "name": "Pasir Gudang",
+      "state": "johor",
+      "latitude": 1.470121,
+      "longitude": 103.89366,
+      "api": 156,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA35J",
+      "name": "Pengerang",
+      "state": "johor",
+      "latitude": 1.389999,
+      "longitude": 104.14956,
+      "api": 95,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA36J",
+      "name": "Kota Tinggi",
+      "state": "johor",
+      "latitude": 1.564027,
+      "longitude": 104.22533,
+      "api": 117,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA37C",
+      "name": "Rompin",
+      "state": "pahang",
+      "latitude": 2.927699,
+      "longitude": 103.419193,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA38C",
+      "name": "Temerloh",
+      "state": "pahang",
+      "latitude": 3.470806,
+      "longitude": 102.378663,
+      "api": 90,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA39C",
+      "name": "Jerantut",
+      "state": "pahang",
+      "latitude": 3.948312,
+      "longitude": 102.366683,
+      "api": 93,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA40C",
+      "name": "Indera Mahkota Kuantan",
+      "state": "pahang",
+      "latitude": 3.819228,
+      "longitude": 103.296553,
+      "api": 152,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA41C",
+      "name": "Balok Baru Kuantan",
+      "state": "pahang",
+      "latitude": 3.960669,
+      "longitude": 103.382182,
+      "api": 98,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA42T",
+      "name": "Kemaman",
+      "state": "terengganu",
+      "latitude": 4.26215,
+      "longitude": 103.425839,
+      "api": 72,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA43T",
+      "name": "Paka",
+      "state": "terengganu",
+      "latitude": 4.598131,
+      "longitude": 103.434793,
+      "api": 90,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA44T",
+      "name": "Kuala Terengganu",
+      "state": "terengganu",
+      "latitude": 5.308144,
+      "longitude": 103.120435,
+      "api": 65,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA45T",
+      "name": "Besut",
+      "state": "terengganu",
+      "latitude": 5.743342,
+      "longitude": 102.513478,
+      "api": 63,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA46D",
+      "name": "Tanah Merah",
+      "state": "kelantan",
+      "latitude": 5.811251,
+      "longitude": 102.134517,
+      "api": 55,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA47D",
+      "name": "Kota Bharu",
+      "state": "kelantan",
+      "latitude": 6.147439,
+      "longitude": 102.249233,
+      "api": 55,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA48S",
+      "name": "Tawau",
+      "state": "sabah",
+      "latitude": 4.249853,
+      "longitude": 117.935858,
+      "api": 91,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA49S",
+      "name": "Sandakan",
+      "state": "sabah",
+      "latitude": 5.864474,
+      "longitude": 118.091062,
+      "api": 61,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA50S",
+      "name": "Kota Kinabalu",
+      "state": "sabah",
+      "latitude": 5.879672,
+      "longitude": 116.056388,
+      "api": 59,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA51S",
+      "name": "Kimanis",
+      "state": "sabah",
+      "latitude": 5.597719,
+      "longitude": 115.88833,
+      "api": 45,
+      "band": "Good",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA52S",
+      "name": "Keningau",
+      "state": "sabah",
+      "latitude": 5.339426,
+      "longitude": 116.163683,
+      "api": 59,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA53L",
+      "name": "Labuan",
+      "state": "wp-labuan",
+      "latitude": 5.298106,
+      "longitude": 115.232276,
+      "api": 50,
+      "band": "Good",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA54Q",
+      "name": "Limbang",
+      "state": "sarawak",
+      "latitude": 4.758824,
+      "longitude": 115.01366,
+      "api": 35,
+      "band": "Good",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA55Q",
+      "name": "ILP Miri",
+      "state": "sarawak",
+      "latitude": 4.49474,
+      "longitude": 114.043375,
+      "api": 49,
+      "band": "Good",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA56Q",
+      "name": "Miri",
+      "state": "sarawak",
+      "latitude": 4.424563,
+      "longitude": 114.012368,
+      "api": 54,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA57Q",
+      "name": "Samalaju",
+      "state": "sarawak",
+      "latitude": 3.532722,
+      "longitude": 113.325812,
+      "api": 63,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA58Q",
+      "name": "Bintulu",
+      "state": "sarawak",
+      "latitude": 3.177155,
+      "longitude": 113.041171,
+      "api": 59,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA59Q",
+      "name": "Mukah",
+      "state": "sarawak",
+      "latitude": 2.870617,
+      "longitude": 112.019994,
+      "api": 74,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA60Q",
+      "name": "Kapit",
+      "state": "sarawak",
+      "latitude": 2.014548,
+      "longitude": 112.927323,
+      "api": 72,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA61Q",
+      "name": "Sibu",
+      "state": "sarawak",
+      "latitude": 2.314322,
+      "longitude": 111.831933,
+      "api": 79,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA62Q",
+      "name": "Sarikei",
+      "state": "sarawak",
+      "latitude": 2.132909,
+      "longitude": 111.522885,
+      "api": 72,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA63Q",
+      "name": "Sri Aman",
+      "state": "sarawak",
+      "latitude": 1.219718,
+      "longitude": 111.464871,
+      "api": 129,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA64Q",
+      "name": "Samarahan",
+      "state": "sarawak",
+      "latitude": 1.454806,
+      "longitude": 110.491506,
+      "api": 91,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA65Q",
+      "name": "Kuching",
+      "state": "sarawak",
+      "latitude": 1.562167,
+      "longitude": 110.388916,
+      "api": 94,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA66J",
+      "name": "Tangkak",
+      "state": "johor",
+      "latitude": 2.295748,
+      "longitude": 102.571313,
+      "api": 161,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "MCAQM001",
+      "name": "Johan Setia",
+      "state": "selangor",
+      "latitude": 2.978311,
+      "longitude": 101.489422,
+      "api": 168,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "MCAQM002",
+      "name": "KENYALANG",
+      "state": "sarawak",
+      "latitude": 1.172556,
+      "longitude": 110.568164,
+      "api": 130,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "MCAQM003",
+      "name": "RAFFLESIA",
+      "state": "sabah",
+      "latitude": 6.097122,
+      "longitude": 116.166454,
+      "api": 60,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    }
+  ],
+  "peninsula": {
+    "stations": 48,
+    "counts": {
+      "Good": 0,
+      "Moderate": 25,
+      "Unhealthy": 23,
+      "Very Unhealthy": 0,
+      "Hazardous": 0
+    },
+    "unresolved_state_count": 0
+  },
+  "klang_valley": [
+    {
+      "id": "MCAQM001",
+      "name": "Johan Setia",
+      "state": "selangor",
+      "latitude": 2.978311,
+      "longitude": 101.489422,
+      "api": 168,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA15W",
+      "name": "Batu Muda",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.212429,
+      "longitude": 101.682218,
+      "api": 165,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA19B",
+      "name": "Petaling Jaya",
+      "state": "selangor",
+      "latitude": 3.130875,
+      "longitude": 101.60868,
+      "api": 159,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA21B",
+      "name": "Klang",
+      "state": "selangor",
+      "latitude": 3.014899,
+      "longitude": 101.413136,
+      "api": 156,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA16W",
+      "name": "Cheras",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.10626,
+      "longitude": 101.717931,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA17W",
+      "name": "Putrajaya",
+      "state": "wp-putrajaya",
+      "latitude": 2.915793,
+      "longitude": 101.690946,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA20B",
+      "name": "Shah Alam",
+      "state": "selangor",
+      "latitude": 3.10475,
+      "longitude": 101.556192,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA22B",
+      "name": "Banting",
+      "state": "selangor",
+      "latitude": 2.816668,
+      "longitude": 101.623043,
+      "api": 154,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA18B",
+      "name": "Kuala Selangor",
+      "state": "selangor",
+      "latitude": 3.321362,
+      "longitude": 101.256249,
+      "api": 94,
+      "band": "Moderate",
+      "time": "2026-10-19T17:00:00+08:00"
+    }
+  ],
+  "worst3": [
+    {
+      "id": "MCAQM001",
+      "name": "Johan Setia",
+      "state": "selangor",
+      "latitude": 2.978311,
+      "longitude": 101.489422,
+      "api": 168,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA15W",
+      "name": "Batu Muda",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.212429,
+      "longitude": 101.682218,
+      "api": 165,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    },
+    {
+      "id": "CA23N",
+      "name": "Nilai",
+      "state": "negeri-sembilan",
+      "latitude": 2.821676,
+      "longitude": 101.81153,
+      "api": 164,
+      "band": "Unhealthy",
+      "time": "2026-10-19T17:00:00+08:00"
+    }
+  ],
+  "trend": {
+    "station_id": "CA19B",
+    "points": [
+      {
+        "time": "2026-10-16T17:00:00+08:00",
+        "api": 171,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T18:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T19:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T20:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T21:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T22:00:00+08:00",
+        "api": 168,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-16T23:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T00:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T01:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T02:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T03:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T04:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T05:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T06:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T07:00:00+08:00",
+        "api": 168,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T08:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T09:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T10:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T11:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T12:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T13:00:00+08:00",
+        "api": 170,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T14:00:00+08:00",
+        "api": 170,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T15:00:00+08:00",
+        "api": 170,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T16:00:00+08:00",
+        "api": 170,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T17:00:00+08:00",
+        "api": 169,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T18:00:00+08:00",
+        "api": 168,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T19:00:00+08:00",
+        "api": 167,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T20:00:00+08:00",
+        "api": 166,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T21:00:00+08:00",
+        "api": 165,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T22:00:00+08:00",
+        "api": 165,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-17T23:00:00+08:00",
+        "api": 165,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T00:00:00+08:00",
+        "api": 165,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T01:00:00+08:00",
+        "api": 165,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T02:00:00+08:00",
+        "api": 164,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T03:00:00+08:00",
+        "api": 163,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T04:00:00+08:00",
+        "api": 162,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T05:00:00+08:00",
+        "api": 161,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T06:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T07:00:00+08:00",
+        "api": 158,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T08:00:00+08:00",
+        "api": 157,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T09:00:00+08:00",
+        "api": 157,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T10:00:00+08:00",
+        "api": 156,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T11:00:00+08:00",
+        "api": 156,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T12:00:00+08:00",
+        "api": 156,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T13:00:00+08:00",
+        "api": 155,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T14:00:00+08:00",
+        "api": 155,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T15:00:00+08:00",
+        "api": 154,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T16:00:00+08:00",
+        "api": 154,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T17:00:00+08:00",
+        "api": 155,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T18:00:00+08:00",
+        "api": 156,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T19:00:00+08:00",
+        "api": 157,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T20:00:00+08:00",
+        "api": 158,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T21:00:00+08:00",
+        "api": 158,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T22:00:00+08:00",
+        "api": 159,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-18T23:00:00+08:00",
+        "api": 159,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T00:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T01:00:00+08:00",
+        "api": 161,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T02:00:00+08:00",
+        "api": 161,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T03:00:00+08:00",
+        "api": 162,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T04:00:00+08:00",
+        "api": 162,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T05:00:00+08:00",
+        "api": 162,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T06:00:00+08:00",
+        "api": 161,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T07:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T08:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T09:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T10:00:00+08:00",
+        "api": 160,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T11:00:00+08:00",
+        "api": 159,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T12:00:00+08:00",
+        "api": 159,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T13:00:00+08:00",
+        "api": 158,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T14:00:00+08:00",
+        "api": 157,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T15:00:00+08:00",
+        "api": 157,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T16:00:00+08:00",
+        "api": 158,
+        "source": "semakapi"
+      },
+      {
+        "time": "2026-10-19T17:00:00+08:00",
+        "api": 159,
+        "source": "poster"
+      }
+    ],
+    "gaps": 0,
+    "source_counts": {
+      "semakapi": 72,
+      "poster": 1
+    }
+  },
+  "hotspots": {
+    "total": 421,
+    "kalimantan": 104,
+    "sumatra": 208,
+    "p_malaysia": 5,
+    "sabah_sarawak": 0,
+    "pass_time": "2026-10-19T14:24:00+08:00"
+  },
+  "satellite_date": "2026-10-19",
+  "freshness": {
+    "as_of": "2026-10-19T17:16:54+08:00",
+    "reading_age_hours": 0.28,
+    "reading_stale": false,
+    "hotspots_age_hours": 2.88,
+    "hotspots_stale": false,
+    "satellite_older_than_expected": false
+  },
+  "degraded_sources": [],
+  "provenance": [
+    {
+      "source": "DOE",
+      "url": "https://eqms.doe.gov.my/",
+      "mode": "live",
+      "data_times": [
+        "2026-10-19T17:00:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "MetMalaysia",
+      "url": "https://api.data.gov.my/weather/forecast/",
+      "mode": "live",
+      "data_times": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "SemakAPI",
+      "url": "https://semakapi.my/",
+      "mode": "live",
+      "data_times": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "NASA",
+      "url": "https://worldview.earthdata.nasa.gov/",
+      "mode": "live",
+      "data_times": [
+        "2026-10-19"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "ASMC",
+      "url": "https://asmc.asean.org/",
+      "mode": "live",
+      "data_times": [
+        "2026-10-19T14:24:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "reading hour",
+      "url": null,
+      "mode": "live",
+      "data_times": [
+        "2026-10-19T17:00:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "PJ trend",
+      "url": null,
+      "mode": "live",
+      "data_times": [
+        "2026-10-16T17:00:00+08:00",
+        "2026-10-19T17:00:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "map",
+      "url": null,
+      "mode": "live",
+      "data_times": [
+        "2026-10-19T17:00:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    },
+    {
+      "source": "station states",
+      "url": null,
+      "mode": "live",
+      "data_times": [
+        "2026-10-19T17:00:00+08:00"
+      ],
+      "fetched_at": "2026-10-19T17:16:54+08:00"
+    }
+  ],
+  "render_inputs": {
+    "warning_flags": [
+      "missing-satellite-pixels"
+    ],
+    "version": 1,
+    "renderer": {
+      "geometry_sha256": {
+        "ne_10m_admin_0_boundary_lines_land.dbf": "103d9b00b684b0380d8ded830d24a1406ed28cbb6c1f4dc3df21c50cac615403",
+        "ne_10m_admin_0_boundary_lines_land.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_admin_0_boundary_lines_land.shp": "b6811b9e2f6ed40b31622e6d261210c5e6afded9b7ad71977d3658293f56373f",
+        "ne_10m_admin_0_boundary_lines_land.shx": "e4128caba567cd9e0b11f3a2a0f0b18dfc8f0bb3cd03f2535f750887d6b86fe5",
+        "ne_10m_admin_0_countries.dbf": "c5dbd3dd5fd7e2ef49051fc88562c03819e8ea63a382642df6eadd1243bf4b49",
+        "ne_10m_admin_0_countries.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_admin_0_countries.shp": "7ce119ef6342e43cff7c0c3004e0911ab7ec1988a14734372031d2012180e7bc",
+        "ne_10m_admin_0_countries.shx": "ca19ec112d054c77bc8f7ac00e3b110d5dff32cc9bcf4cd1b8b66bdd0f611d32",
+        "ne_10m_admin_1_states_provinces.dbf": "445a8a9bea889634faf0af18081830df0b05b8471fc6af8dc42aecdd7a71bba1",
+        "ne_10m_admin_1_states_provinces.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_admin_1_states_provinces.shp": "c6f5c8b4b1320d9417033762419c6df1eb423989cd880fba78ea0b1e3522cbe4",
+        "ne_10m_admin_1_states_provinces.shx": "37a9e2bc79ed31d3bdea3cb62d928f77281a1c88d645cd33430231c75dbcf350",
+        "ne_10m_admin_1_states_provinces_lines.dbf": "b524fd1baf59386cd4bca0d6df642ddb02be9cdc4d69f1f1d109885acf21d9ed",
+        "ne_10m_admin_1_states_provinces_lines.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_admin_1_states_provinces_lines.shp": "c89b8545fdb03a764df9de2efeadf0d6735169d94b48a315b5e233780e073ab5",
+        "ne_10m_admin_1_states_provinces_lines.shx": "ba65a7072e06b5454bca8c0a527978333571f3ce45094f006a60f18f8509db10",
+        "ne_10m_coastline.dbf": "9ccc214342fe400bf8c7d91d7a5b276b0457b0ada03e8d4be16ac5ba13037f3b",
+        "ne_10m_coastline.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_coastline.shp": "459a4a97c09db19aadf5244026612de9d43748be27f83a360242b99f7fabb3c1",
+        "ne_10m_coastline.shx": "f873afee7f56779ce52253f740ec251c2f12244aea911dc40f0a85d75de8d5f2",
+        "ne_10m_land.dbf": "e422520372e65c6fb8220888580e5331d04699bcd71c27e53ad42e241a531cbd",
+        "ne_10m_land.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+        "ne_10m_land.shp": "4cad3a49bc75c1a4c2f3d7efae04f2f8e63151c96764b2658effabf524331fa6",
+        "ne_10m_land.shx": "f3b02a190c3020eeafd0f48de982619826b57ecd853cbc68e4fc049652891a04"
+      },
+      "version": "english-editorial-v8-render-inputs-1",
+      "assets_sha256": {
+        "make_jerebu_a4.py": "a0b972108908093aaa67a9f8bf6614efdd640c4319b5fdcdaed8d1ef600aaf4f",
+        "src/data.py": "3d7e479fe271225bee33e7675a8ad047b4c14e7614ef4eb7b3d5443fc688b9b7",
+        "src/render.py": "a3024a81380411a038b650947d590318b8bb9055c9b6f86ac1fa34f24f064631",
+        "src/hourly_map.py": "71ae4022429dce327b368d68d814f33c1c5f482cb5576895038df455361783d7",
+        "fonts/InterVariable.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+        "data/stations.json": "3bbdb32125277eb8c895c76d1cddc58222ad9ea9984504f57d81d4fdf504ce8a",
+        "src/a4_tpl.html": "264127d0c30ab3c50e51aff029ef57093e70e12b24a4e55d3dbb09f1119922e0",
+        "src/carousel.py": "a5875e2e0d1240861d2ba24fb4a0fd8900acb3df9ac418da6c5afe495b12d03a",
+        "src/sat_a4.py": "9fb056d2510f02d5013ee865bffacf744d9c57653faa2dd49780b06bac6dc796",
+        "src/trend.py": "8f33c2d6e87ebb376c1e361dc63e8840d1afcc567729aa98ff155e8ac8855d2c",
+        "src/map_a4.py": "448455868dc535d1f6c82db0aec1d8c09da9c0671eb0e6fa71cac6fceb8e09b7",
+        "src/bands.py": "4f281fbf7deaaa568a0013999930fb48e264ca8cba15dda0b4601bf6d3744fdc",
+        "fonts/Inter-Bold.ttf": "965d8f7af49c88a8fe996d6896160935e4a551bd15e0aca0222648d9de1d8090",
+        "fonts/Inter-SemiBold.ttf": "0f50d0833e23d7560d03c019fc876a9ed6f0ef9ce49a0004afb652582b6b2362",
+        "fonts/Inter-ExtraBold.ttf": "fe3747195ae517072c2fa1d05481cf4237862f6caad079c561932969bd97c9a3"
+      },
+      "a4": {
+        "width": 2480,
+        "height": 3508,
+        "dpi": 300
+      },
+      "phone": {
+        "width": 1080,
+        "height": 1600
+      },
+      "language": "en",
+      "geography": "Natural Earth 10m admin_1 and countries; bundle with renderer",
+      "bands": [
+        {
+          "max_api": 50,
+          "label": "Good",
+          "background": "#2BA84A",
+          "foreground": "#fff",
+          "number_color": "#1E7D38"
+        },
+        {
+          "max_api": 100,
+          "label": "Moderate",
+          "background": "#F4C20D",
+          "foreground": "#14202E",
+          "number_color": "#8A6A00"
+        },
+        {
+          "max_api": 200,
+          "label": "Unhealthy",
+          "background": "#F07F1A",
+          "foreground": "#fff",
+          "number_color": "#C4610C"
+        },
+        {
+          "max_api": 300,
+          "label": "Very Unhealthy",
+          "background": "#D7263D",
+          "foreground": "#fff",
+          "number_color": "#B01E31"
+        },
+        {
+          "max_api": null,
+          "label": "Hazardous",
+          "background": "#6A1B4D",
+          "foreground": "#fff",
+          "number_color": "#6A1B4D"
+        }
+      ]
+    },
+    "selection": {
+      "station_sources": {
+        "CA01R": "DOE",
+        "CA02K": "DOE",
+        "CA03K": "DOE",
+        "CA04K": "DOE",
+        "CA05K": "DOE",
+        "CA06P": "DOE",
+        "CA07P": "DOE",
+        "CA08P": "DOE",
+        "CA09P": "DOE",
+        "CA10A": "DOE",
+        "CA11A": "DOE",
+        "CA12A": "DOE",
+        "CA13A": "DOE",
+        "CA14A": "DOE",
+        "CA15W": "DOE",
+        "CA16W": "DOE",
+        "CA17W": "DOE",
+        "CA18B": "DOE",
+        "CA19B": "DOE",
+        "CA20B": "DOE",
+        "CA21B": "DOE",
+        "CA22B": "DOE",
+        "CA23N": "DOE",
+        "CA24N": "DOE",
+        "CA25N": "DOE",
+        "CA26M": "DOE",
+        "CA27M": "DOE",
+        "CA28M": "DOE",
+        "CA29J": "DOE",
+        "CA31J": "DOE",
+        "CA32J": "DOE",
+        "CA33J": "DOE",
+        "CA34J": "DOE",
+        "CA35J": "DOE",
+        "CA36J": "DOE",
+        "CA37C": "DOE",
+        "CA38C": "DOE",
+        "CA39C": "DOE",
+        "CA40C": "DOE",
+        "CA41C": "DOE",
+        "CA42T": "DOE",
+        "CA43T": "DOE",
+        "CA44T": "DOE",
+        "CA45T": "DOE",
+        "CA46D": "DOE",
+        "CA47D": "DOE",
+        "CA48S": "DOE",
+        "CA49S": "DOE",
+        "CA50S": "DOE",
+        "CA51S": "DOE",
+        "CA52S": "DOE",
+        "CA53L": "DOE",
+        "CA54Q": "DOE",
+        "CA55Q": "DOE",
+        "CA56Q": "DOE",
+        "CA57Q": "DOE",
+        "CA58Q": "DOE",
+        "CA59Q": "DOE",
+        "CA60Q": "DOE",
+        "CA61Q": "DOE",
+        "CA62Q": "DOE",
+        "CA63Q": "DOE",
+        "CA64Q": "DOE",
+        "CA65Q": "DOE",
+        "CA66J": "DOE",
+        "MCAQM001": "DOE",
+        "MCAQM002": "DOE",
+        "MCAQM003": "DOE"
+      },
+      "source_counts": {
+        "DOE": 68
+      },
+      "eligible_stations": 68,
+      "published_stations": 68,
+      "minimum_coverage_fraction": 0.9,
+      "peninsula_expected_stations": 48,
+      "policy": "newest complete hour; DOE first, exact-hour SemakAPI fill",
+      "state_resolution": "DOE STATE_ID, location suffix, template, fixed registry",
+      "current_hour": "2026-10-19T17:00:00+08:00",
+      "current_hour_coverage": 68,
+      "newest_hour_incomplete": false,
+      "mismatches": [],
+      "state_conflicts": [],
+      "daily_fetches": [
+        {
+          "date": "2026-10-15",
+          "mode": "live"
+        },
+        {
+          "date": "2026-10-16",
+          "mode": "live"
+        },
+        {
+          "date": "2026-10-17",
+          "mode": "live"
+        },
+        {
+          "date": "2026-10-18",
+          "mode": "live"
+        },
+        {
+          "date": "2026-10-19",
+          "mode": "live"
+        }
+      ]
+    },
+    "forecast": {
+      "location_id": "Tn076",
+      "location_name": "Petaling Jaya",
+      "clock_time": "2026-10-19T17:16:54+08:00",
+      "tonight": false,
+      "days": [
+        {
+          "date": "2026-10-19",
+          "morning": "Thunderstorms",
+          "afternoon": "Thunderstorms",
+          "night": "Hazy",
+          "min_temp_c": 24,
+          "max_temp_c": 33
+        },
+        {
+          "date": "2026-10-20",
+          "morning": "Rain",
+          "afternoon": "Thunderstorms",
+          "night": "Hazy",
+          "min_temp_c": 24,
+          "max_temp_c": 33
+        }
+      ],
+      "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14"
+    },
+    "asmc": {
+      "counts": {
+        "total": 421,
+        "kalimantan": 104,
+        "sumatra": 208,
+        "p_malaysia": 5,
+        "sabah_sarawak": 0,
+        "pass_time": "2026-10-19T14:24:00+08:00"
+      },
+      "province_counts": {
+        "Java": {
+          "Jawa Timur": 29,
+          "Jawa Tengah": 9,
+          "Jawa Barat": 8
+        },
+        "Kalimantan": {
+          "Kalimantan Selatan": 70,
+          "Kalimantan Tengah": 16,
+          "Kalimantan Timur": 11,
+          "Kalimantan Barat": 7
+        },
+        "Sulawesi": {
+          "Sulawesi Selatan": 4,
+          "Sulawesi Tengah": 4
+        },
+        "Sumatra": {
+          "Sumatera Selatan": 81,
+          "Lampung": 21,
+          "Bangka-Belitung": 95,
+          "Jambi": 7,
+          "Sumatera Barat": 2,
+          "Bengkulu": 1,
+          "Aceh": 1
+        },
+        "P_Malaysia": {
+          "Johor": 1,
+          "Selangor": 1,
+          "Perak": 3
+        }
+      },
+      "points": [
+        {
+          "longitude": 113.63728333,
+          "latitude": -7.95421219,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.61209869,
+          "latitude": -7.95846653,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.60204315,
+          "latitude": -7.94333744,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.64115906,
+          "latitude": -7.92824459,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.63218689,
+          "latitude": -7.92978287,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.64458466,
+          "latitude": -7.89515829,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.91609192,
+          "latitude": -7.96631527,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.96633911,
+          "latitude": -7.87364578,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.73608398,
+          "latitude": -7.83486652,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.01165009,
+          "latitude": -8.05278778,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.60813904,
+          "latitude": -7.78435564,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.58670044,
+          "latitude": -7.78793001,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.57823181,
+          "latitude": -7.78932381,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.6051178,
+          "latitude": -7.77695084,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.59439087,
+          "latitude": -7.77874947,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.58423615,
+          "latitude": -7.78045368,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.57585144,
+          "latitude": -7.78183603,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.5911026,
+          "latitude": -7.77142191,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.58920288,
+          "latitude": -7.73426628,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.18796539,
+          "latitude": -7.64109421,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.18586731,
+          "latitude": -7.63410568,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.3772049,
+          "latitude": -7.75290585,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.66539764,
+          "latitude": -7.1303854,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 109.56413269,
+          "latitude": -7.04779291,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.1319809,
+          "latitude": -6.95272112,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.48958588,
+          "latitude": -6.67202616,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.91791534,
+          "latitude": -6.88924837,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.62667084,
+          "latitude": -6.90695429,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.94478607,
+          "latitude": -6.44124174,
+          "region": "Java",
+          "province": "Jawa Tengah",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.48977661,
+          "latitude": -6.81263781,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.48503113,
+          "latitude": -6.565588,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.92739868,
+          "latitude": -6.40322542,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.41477203,
+          "latitude": -6.48127031,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.35736847,
+          "latitude": -6.34068251,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.35636139,
+          "latitude": -6.33404875,
+          "region": "Java",
+          "province": "Jawa Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.25591278,
+          "latitude": -3.80146718,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.24946594,
+          "latitude": -3.80256701,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.25440979,
+          "latitude": -3.8020637,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.24796295,
+          "latitude": -3.80310178,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.15153503,
+          "latitude": -3.77588654,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 119.67152405,
+          "latitude": -3.07914925,
+          "region": "Sulawesi",
+          "province": "Sulawesi Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 119.64822388,
+          "latitude": -3.08310294,
+          "region": "Sulawesi",
+          "province": "Sulawesi Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.09320831,
+          "latitude": -3.8422823,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.08249664,
+          "latitude": -3.84403992,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.18878174,
+          "latitude": -3.65127921,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.43172455,
+          "latitude": -3.7663455,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.00942993,
+          "latitude": -3.79653215,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.19026947,
+          "latitude": -3.75608611,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.01094818,
+          "latitude": -3.79742002,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.19223022,
+          "latitude": -3.75836873,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.17977142,
+          "latitude": -3.75033832,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.94033813,
+          "latitude": -3.77910686,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 119.57746124,
+          "latitude": -2.97497964,
+          "region": "Sulawesi",
+          "province": "Sulawesi Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.66546631,
+          "latitude": -3.59894276,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.90982056,
+          "latitude": -3.71506929,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.27797699,
+          "latitude": -3.47447443,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.09161377,
+          "latitude": -3.65474319,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.22128296,
+          "latitude": -3.46308899,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.085289,
+          "latitude": -3.64775634,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.45519257,
+          "latitude": -3.56727147,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.01005554,
+          "latitude": -2.97029352,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.00380707,
+          "latitude": -2.97134733,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.00843048,
+          "latitude": -2.97052503,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.00211334,
+          "latitude": -2.97153354,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.84029388,
+          "latitude": -2.93373632,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.9122467,
+          "latitude": -2.86770821,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.90578461,
+          "latitude": -2.86875582,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.08948517,
+          "latitude": -2.8174212,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.81317139,
+          "latitude": -4.72985554,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.81077576,
+          "latitude": -4.4099822,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.6834259,
+          "latitude": -3.33230448,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.08600616,
+          "latitude": -2.75289464,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.07944489,
+          "latitude": -2.75399327,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.98113251,
+          "latitude": -3.40478992,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.08460999,
+          "latitude": -2.75404978,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.07802582,
+          "latitude": -2.75510144,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.98183441,
+          "latitude": -3.39368439,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.97167206,
+          "latitude": -3.39527559,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.37785339,
+          "latitude": -4.39455795,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.0729599,
+          "latitude": -3.33856153,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.686203,
+          "latitude": -4.3271513,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.9052887,
+          "latitude": -3.19677782,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.6337738,
+          "latitude": -4.32805729,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.96022034,
+          "latitude": -2.68780446,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.95401764,
+          "latitude": -2.68883371,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.02226257,
+          "latitude": -4.41236401,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.28194427,
+          "latitude": -3.25546932,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 111.98744965,
+          "latitude": -3.29526758,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.28134918,
+          "latitude": -3.25503516,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 120.4429245,
+          "latitude": -1.58775091,
+          "region": "Sulawesi",
+          "province": "Sulawesi Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.70661926,
+          "latitude": -3.97081113,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 120.46685791,
+          "latitude": -1.5691427,
+          "region": "Sulawesi",
+          "province": "Sulawesi Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.22496796,
+          "latitude": -2.28807163,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.21818542,
+          "latitude": -2.28920269,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.862854,
+          "latitude": -3.92667961,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.96523285,
+          "latitude": -2.3431325,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.43817902,
+          "latitude": -4.12408018,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.43003082,
+          "latitude": -4.1253109,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.22420502,
+          "latitude": -2.2910316,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.41266632,
+          "latitude": -4.12062263,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 120.44664001,
+          "latitude": -1.59709001,
+          "region": "Sulawesi",
+          "province": "Sulawesi Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.84142303,
+          "latitude": -3.88356996,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.39746857,
+          "latitude": -3.86311793,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.94499207,
+          "latitude": -3.00564051,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.42403412,
+          "latitude": -3.83809471,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.41662598,
+          "latitude": -3.83921432,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.90578461,
+          "latitude": -2.98880506,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.95833588,
+          "latitude": -2.97289419,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.76563263,
+          "latitude": -3.77265549,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.27202606,
+          "latitude": -3.83991575,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.81829834,
+          "latitude": -3.7301712,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.39463043,
+          "latitude": -3.79351187,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.89183044,
+          "latitude": -2.89016819,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.24018097,
+          "latitude": -3.90772843,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.77837372,
+          "latitude": -3.6622088,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.24020386,
+          "latitude": -3.72917914,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.71717072,
+          "latitude": -2.87200379,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.71046448,
+          "latitude": -2.82516742,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.18805695,
+          "latitude": -2.88814592,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.26455688,
+          "latitude": -3.33366561,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.25713348,
+          "latitude": -3.334795,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.1940918,
+          "latitude": -2.88037872,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.1870575,
+          "latitude": -2.88145685,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.25657654,
+          "latitude": -2.86394477,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.15817261,
+          "latitude": -3.33573008,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.46772766,
+          "latitude": -3.28196239,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.43010712,
+          "latitude": -3.28067636,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.05854797,
+          "latitude": -2.83972311,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.69856262,
+          "latitude": -3.3405869,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.69891357,
+          "latitude": -3.33959079,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.58351898,
+          "latitude": -3.04496765,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.57659149,
+          "latitude": -3.04601908,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56273651,
+          "latitude": -3.04813337,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.85865784,
+          "latitude": -2.99621725,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.50429535,
+          "latitude": -2.98913622,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.96893311,
+          "latitude": -2.73177385,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.96192932,
+          "latitude": -2.73284316,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.063591,
+          "latitude": -2.8698833,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.96092224,
+          "latitude": -2.72618032,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.43856049,
+          "latitude": -2.93809795,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.43161774,
+          "latitude": -2.93915582,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.36208344,
+          "latitude": -2.94974399,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.25979614,
+          "latitude": -3.10335517,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.65879822,
+          "latitude": -3.17985082,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.4196701,
+          "latitude": -2.90698934,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.08390808,
+          "latitude": -2.63906407,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.38987732,
+          "latitude": -2.89791298,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54980469,
+          "latitude": -2.7854178,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54288483,
+          "latitude": -2.78646779,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.29294586,
+          "latitude": -2.82445121,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54880524,
+          "latitude": -2.77878428,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54188538,
+          "latitude": -2.77983594,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.58238983,
+          "latitude": -2.76689577,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56856537,
+          "latitude": -2.76899481,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54780579,
+          "latitude": -2.77214742,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54089355,
+          "latitude": -2.7732017,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.53397369,
+          "latitude": -2.77425051,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.11611938,
+          "latitude": -2.83762908,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.09116364,
+          "latitude": -2.99222231,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.58138275,
+          "latitude": -2.76027441,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56755829,
+          "latitude": -2.76236701,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.53987885,
+          "latitude": -2.76657557,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.53296661,
+          "latitude": -2.76762271,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.29080963,
+          "latitude": -3.09754348,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.10507965,
+          "latitude": -2.81199074,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.44254303,
+          "latitude": -3.20790887,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.0689621,
+          "latitude": -2.81060147,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.52050781,
+          "latitude": -2.73556209,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.4908371,
+          "latitude": -2.72651339,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.48390961,
+          "latitude": -2.7275753,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.9952774,
+          "latitude": -2.80210137,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.3881073,
+          "latitude": -3.19936132,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.48292542,
+          "latitude": -2.72093487,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.00131989,
+          "latitude": -2.79433584,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.51553345,
+          "latitude": -2.70239353,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.50861359,
+          "latitude": -2.70344615,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.2016449,
+          "latitude": -2.24126339,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.07736206,
+          "latitude": -2.67397547,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 102.94324493,
+          "latitude": -2.6630106,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.38313293,
+          "latitude": -1.47354937,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.34131622,
+          "latitude": -2.37446666,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.33036804,
+          "latitude": -2.50463438,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.77576447,
+          "latitude": -2.42301893,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.44804382,
+          "latitude": -2.08415413,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.17315674,
+          "latitude": -2.27698135,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.14004517,
+          "latitude": -2.27470899,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.76519012,
+          "latitude": -0.43885925,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.76942444,
+          "latitude": -0.44082826,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.76268768,
+          "latitude": -0.44185901,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.26628876,
+          "latitude": -1.96154666,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.68179321,
+          "latitude": -1.80413854,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.36677551,
+          "latitude": -0.24482554,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.36042023,
+          "latitude": -0.24580784,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.01773071,
+          "latitude": -1.61097443,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.36941528,
+          "latitude": -1.66877639,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.35652924,
+          "latitude": -1.8225944,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.3735199,
+          "latitude": -1.77705348,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.9041214,
+          "latitude": -1.78273511,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 117.51381683,
+          "latitude": 0.3282584,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.34819794,
+          "latitude": -1.60687232,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.34043121,
+          "latitude": -1.60805333,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.49117279,
+          "latitude": -1.8232317,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.12338257,
+          "latitude": -1.38078701,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.82978821,
+          "latitude": -1.30639219,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.82283783,
+          "latitude": -1.30743635,
+          "region": "Sumatra",
+          "province": "Jambi",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.29032135,
+          "latitude": -0.9463594,
+          "region": "Sumatra",
+          "province": "Sumatera Barat",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.95478821,
+          "latitude": -3.64907861,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.94554138,
+          "latitude": -3.65058541,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 119.86022949,
+          "latitude": -2.82046986,
+          "region": "Sulawesi",
+          "province": "Sulawesi Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.4879837,
+          "latitude": -3.55161428,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.48226929,
+          "latitude": -3.55255461,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.43929291,
+          "latitude": -3.55962992,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.08588409,
+          "latitude": -3.44224668,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.86242676,
+          "latitude": -3.44760776,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.85627747,
+          "latitude": -3.44863915,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.16210938,
+          "latitude": -3.35434699,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.59909058,
+          "latitude": -3.43592954,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.59313965,
+          "latitude": -3.43690276,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.58719635,
+          "latitude": -3.43787622,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.591362,
+          "latitude": -3.42681336,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.58535004,
+          "latitude": -3.42779565,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.56713104,
+          "latitude": -3.29185367,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.14788818,
+          "latitude": -3.18414474,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.14138031,
+          "latitude": -3.18523407,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.82962799,
+          "latitude": -3.22694516,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.82762146,
+          "latitude": -3.22541404,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.72613525,
+          "latitude": -3.22068763,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.75157166,
+          "latitude": -4.75826025,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.68984222,
+          "latitude": -3.18460822,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.72847748,
+          "latitude": -4.75475693,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.83533478,
+          "latitude": -4.67190647,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.83432007,
+          "latitude": -4.66511679,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.855896,
+          "latitude": -3.06014252,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.84966278,
+          "latitude": -3.0611577,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.95586395,
+          "latitude": -3.00087738,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.78541565,
+          "latitude": -3.01089621,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.72096252,
+          "latitude": -3.17800999,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.6763916,
+          "latitude": -4.26189184,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.5925293,
+          "latitude": -4.25367212,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.72076416,
+          "latitude": -3.12672544,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.10747528,
+          "latitude": -2.56667566,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.10090637,
+          "latitude": -2.56775284,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.01547241,
+          "latitude": -2.58182907,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.94883728,
+          "latitude": -2.58201838,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.0499115,
+          "latitude": -2.54356837,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.04337311,
+          "latitude": -2.54466629,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.75371552,
+          "latitude": -3.08712864,
+          "region": "Kalimantan",
+          "province": "Kalimantan Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.04685211,
+          "latitude": -2.54509211,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.04026794,
+          "latitude": -2.54614186,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.62310791,
+          "latitude": -4.16144943,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.6220932,
+          "latitude": -4.15462828,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.04349518,
+          "latitude": -2.48046947,
+          "region": "Kalimantan",
+          "province": "Kalimantan Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.70478058,
+          "latitude": -4.10735464,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.59393311,
+          "latitude": -4.11705971,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.58657837,
+          "latitude": -4.11816454,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.5929184,
+          "latitude": -4.11023474,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.58556366,
+          "latitude": -4.11133623,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.71629333,
+          "latitude": -4.08479166,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.77346039,
+          "latitude": -4.06929159,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.76621246,
+          "latitude": -4.07037163,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.75894165,
+          "latitude": -4.07146168,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.53625488,
+          "latitude": -4.08380413,
+          "region": "Sumatra",
+          "province": "Lampung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.70763397,
+          "latitude": -3.97760201,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 120.45563507,
+          "latitude": -1.58558583,
+          "region": "Sulawesi",
+          "province": "Sulawesi Tengah",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.7093277,
+          "latitude": -2.81776857,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.7430954,
+          "latitude": -3.5797565,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.73588562,
+          "latitude": -3.58085036,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.670784,
+          "latitude": -3.59070945,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.63246918,
+          "latitude": -3.58264136,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.61064911,
+          "latitude": -3.58593845,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.07954407,
+          "latitude": -3.15554953,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.06401825,
+          "latitude": -3.15161967,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.05702972,
+          "latitude": -3.15268564,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.70313263,
+          "latitude": -3.51187778,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.05600739,
+          "latitude": -3.14602733,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.60629272,
+          "latitude": -3.6431179,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.637146,
+          "latitude": -3.46647716,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.60710907,
+          "latitude": -3.4640739,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.29859161,
+          "latitude": -3.51049662,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.91301727,
+          "latitude": -3.71760631,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.60608673,
+          "latitude": -3.45728993,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.54681396,
+          "latitude": -3.4592514,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.10684204,
+          "latitude": -3.05635452,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.26454926,
+          "latitude": -2.70431495,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.13286591,
+          "latitude": -3.03867412,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 110.26573181,
+          "latitude": -2.70672297,
+          "region": "Kalimantan",
+          "province": "Kalimantan Barat",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.34410095,
+          "latitude": -3.40914416,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.24023438,
+          "latitude": -3.42481685,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.66993713,
+          "latitude": -3.04211044,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.60780334,
+          "latitude": -3.05162716,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.23149872,
+          "latitude": -3.36675572,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.27301025,
+          "latitude": -3.33939743,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.19511414,
+          "latitude": -2.88706088,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56227112,
+          "latitude": -2.86497307,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55926514,
+          "latitude": -2.84507608,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.53849792,
+          "latitude": -2.84821844,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55778503,
+          "latitude": -2.83847356,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55680084,
+          "latitude": -2.83183455,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.54988098,
+          "latitude": -2.83289289,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.53604126,
+          "latitude": -2.83500361,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.65827179,
+          "latitude": -2.65697861,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.6513443,
+          "latitude": -2.65803289,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.17393494,
+          "latitude": -3.03588247,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56863403,
+          "latitude": -2.81646132,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56171417,
+          "latitude": -2.81751895,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.31186676,
+          "latitude": -2.85560608,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.56071472,
+          "latitude": -2.81089187,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.20157623,
+          "latitude": -3.017658,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.11228943,
+          "latitude": -3.03121996,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.98933411,
+          "latitude": -2.58594894,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55971527,
+          "latitude": -2.80425906,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55279541,
+          "latitude": -2.8053124,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.21218872,
+          "latitude": -2.85716105,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.21537781,
+          "latitude": -3.0085597,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.18572235,
+          "latitude": -3.01305127,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.40245056,
+          "latitude": -3.13165784,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.55871582,
+          "latitude": -2.79762697,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.16239929,
+          "latitude": -3.00957632,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.557724,
+          "latitude": -2.7909894,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.09425354,
+          "latitude": -3.01285481,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.89230347,
+          "latitude": -3.19385576,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.88385773,
+          "latitude": -3.19512153,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.02043152,
+          "latitude": -2.77774763,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.01138306,
+          "latitude": -2.76544738,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.11575317,
+          "latitude": -2.74277282,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.01742554,
+          "latitude": -2.75768661,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.08453369,
+          "latitude": -3.04922104,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.07628632,
+          "latitude": -3.05045557,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.6220932,
+          "latitude": -2.65904856,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.19075775,
+          "latitude": -2.71775794,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.06465149,
+          "latitude": -2.73686457,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.06363678,
+          "latitude": -2.7301867,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.99327087,
+          "latitude": -2.74082303,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.97719574,
+          "latitude": -2.72956944,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.73767853,
+          "latitude": -2.58703613,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.20042419,
+          "latitude": -2.80776191,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.74843597,
+          "latitude": -2.56508112,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.74156189,
+          "latitude": -2.56612992,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.13954163,
+          "latitude": -2.96186686,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.74055481,
+          "latitude": -2.55951166,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.6676712,
+          "latitude": -2.54352713,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.98569489,
+          "latitude": -2.79816079,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.04178619,
+          "latitude": -2.92516899,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.77819061,
+          "latitude": -3.21068335,
+          "region": "Sumatra",
+          "province": "Bengkulu",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.01473236,
+          "latitude": -2.91558933,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 102.66465759,
+          "latitude": -2.92083979,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.00344086,
+          "latitude": -2.83940864,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.85987854,
+          "latitude": -2.39526582,
+          "region": "Sumatra",
+          "province": "Bangka-Belitung",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.78868866,
+          "latitude": -2.6972518,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 102.98710632,
+          "latitude": -2.78030181,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.71624756,
+          "latitude": -2.49908066,
+          "region": "Sumatra",
+          "province": "Sumatera Selatan",
+          "time": "2026-10-19T14:24:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.55667114,
+          "latitude": -0.55154258,
+          "region": "Sumatra",
+          "province": "Sumatera Barat",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 117.13150024,
+          "latitude": 2.0140214,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 117.13196564,
+          "latitude": 2.02103877,
+          "region": "Kalimantan",
+          "province": "Kalimantan Timur",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.24272919,
+          "latitude": 1.73265803,
+          "region": "P_Malaysia",
+          "province": "Johor",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.67508698,
+          "latitude": 2.8164351,
+          "region": "P_Malaysia",
+          "province": "Selangor",
+          "time": "2026-10-19T14:25:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 97.68428802,
+          "latitude": 2.82590151,
+          "region": "Sumatra",
+          "province": "Aceh",
+          "time": "2026-10-19T14:26:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.01461792,
+          "latitude": 3.99095416,
+          "region": "P_Malaysia",
+          "province": "Perak",
+          "time": "2026-10-19T14:26:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.29457092,
+          "latitude": 4.11971378,
+          "region": "P_Malaysia",
+          "province": "Perak",
+          "time": "2026-10-19T14:26:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.75889587,
+          "latitude": 4.29215193,
+          "region": "P_Malaysia",
+          "province": "Perak",
+          "time": "2026-10-19T14:26:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.20969391,
+          "latitude": 13.83280849,
+          "region": "Cambodia",
+          "province": null,
+          "time": "2026-10-19T14:28:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.20143127,
+          "latitude": 13.83165741,
+          "region": "Cambodia",
+          "province": null,
+          "time": "2026-10-19T14:28:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 101.39974976,
+          "latitude": 13.14261723,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:28:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.81755066,
+          "latitude": 13.61368465,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.66316986,
+          "latitude": 14.04534531,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.63365936,
+          "latitude": 14.07756138,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.60438538,
+          "latitude": 14.15178871,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.80139923,
+          "latitude": 14.67092323,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.80241394,
+          "latitude": 14.94542027,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.55986786,
+          "latitude": 15.04539871,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.71072388,
+          "latitude": 15.15532017,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.53367615,
+          "latitude": 16.32683754,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 99.9896698,
+          "latitude": 16.59163284,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.04646301,
+          "latitude": 17.16729164,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 96.58739471,
+          "latitude": 16.72303963,
+          "region": "Myanmar",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.24224854,
+          "latitude": 17.53342247,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.24013519,
+          "latitude": 17.59264374,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 99.9155426,
+          "latitude": 17.53846931,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.15707397,
+          "latitude": 17.74432564,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:29:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 98.58966064,
+          "latitude": 18.07401276,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 99.63150024,
+          "latitude": 18.26081085,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.65341949,
+          "latitude": 18.6009922,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 95.30175018,
+          "latitude": 17.69965744,
+          "region": "Myanmar",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.96346283,
+          "latitude": 18.92907906,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 100.40394592,
+          "latitude": 20.16642952,
+          "region": "Thailand",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 99.65341949,
+          "latitude": 22.03304291,
+          "region": "Myanmar",
+          "province": null,
+          "time": "2026-10-19T14:31:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.68585968,
+          "latitude": -8.42212486,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.69049835,
+          "latitude": -8.27073002,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.09980774,
+          "latitude": -8.09295654,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 114.09747314,
+          "latitude": -8.08468246,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.46686554,
+          "latitude": -8.19154739,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 112.92141724,
+          "latitude": -8.11414814,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.65631104,
+          "latitude": -7.98477364,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.62450409,
+          "latitude": -7.98163462,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.62291718,
+          "latitude": -7.97348499,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.62169647,
+          "latitude": -7.9652648,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 113.6135788,
+          "latitude": -7.96662998,
+          "region": "Java",
+          "province": "Jawa Timur",
+          "time": "2026-10-19T14:22:00+08:00",
+          "satellite": "NOAA20"
+        }
+      ],
+      "point_count": 397,
+      "omitted_point_count": 24,
+      "province_assignment_scope": [
+        "Kalimantan",
+        "Sumatra",
+        "P_Malaysia",
+        "SabahSarawak"
+      ],
+      "unassigned_province_count": 0,
+      "observation": "Dry conditions continued over many parts of the southern ASEAN region overnight, apart from showers mainly over the northern and central parts of Sumatra, and parts of Borneo. Scattered to widespread hotspots were detected in Kalimantan and the southern parts of Sumatra, while few hotspots were detected elsewhere in the southern ASEAN region. Moderate to dense transboundary smoke haze was observed over parts of Peninsular Malaysia, Singapore, Kalimantan, Sumatra, and the western parts of Sarawak. Moderate to dense smoke haze was also observed over Papua and the Maluku Islands. Air quality stations in Singapore and Peninsular Malaysia recorded Unhealthy levels, while those in Borneo and Sumatra reported Unhealthy to Hazardous levels. The full extent of the hotspot situation over Kalimantan and Sumatra could not be determined due to obscuration by thick smoke haze and cloud cover, while the smoke haze situation over parts of the region could not be fully determined due to cloud cover. Dry weather was observed over the northern ASEAN region overnight, except over parts of the Philippines and the southern and central parts of the Mekong sub-region where there were some showers. Hotspot and smoke haze activities remained subdued.",
+      "kml_filename": "Haze_Hotspots_20261019_165000.kml",
+      "kml_url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261019_165000.kml",
+      "kml_sha256": "e0b135b369d837f92997f8a3760d371f9f0be0bd021803c60254a2e404ad6032",
+      "published_at": "2026-10-19T16:50:00+08:00",
+      "stale": false,
+      "minimum_counts": true
+    },
+    "satellite": {
+      "date": "2026-10-19",
+      "mode": "live",
+      "base": {
+        "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+        "sha256": "8655ff9b351cb988e8011afa71c82a701ab8a603f5fec4959aa4a14d6c4d87a0",
+        "media_type": "image/jpeg",
+        "width": 2080,
+        "height": 1200
+      },
+      "fire_overlay": {
+        "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+        "sha256": "95ebd34175f49022396b160366d18cf7faadbe1fc20c9fe2f6795af1d614c02d",
+        "media_type": "image/jpeg",
+        "width": 2080,
+        "height": 1200
+      },
+      "bounds": {
+        "south": -7,
+        "west": 94,
+        "north": 8,
+        "east": 120
+      },
+      "crs": "EPSG:4326",
+      "composition": {
+        "difference_threshold": 60,
+        "dilation_pixels": 5,
+        "fire_rgb": [
+          232,
+          28,
+          28
+        ],
+        "source_crop": [
+          0,
+          180,
+          2080,
+          980
+        ],
+        "graticule_degrees": 5
+      },
+      "older_than_expected": false,
+      "fire_pixels_visible": 21353,
+      "missing_imagery": true,
+      "requires_exact_hash_match": true
+    },
+    "missing": [
+      "asmc_points"
+    ],
+    "complete": false,
+    "external_assets_required": [
+      "bundled renderer fonts and Natural Earth geometry",
+      "hash-verified NASA base and overlay images"
+    ]
+  },
+  "images": {
+    "a4": {
+      "filename": "jerebu-a4-2026-10-19-1700.png",
+      "sha256": "35ff020a4f6d870334c2575ae4652c47bc93cf569479fd76755548b5c10a543e",
+      "bytes": 484685,
+      "width": 2480,
+      "height": 3508
+    },
+    "pj_now": {
+      "filename": "01-pj-now.png",
+      "sha256": "f88e8923062d31389332fc844f691abf707e57d60a32c4cf537c4cb994b25934",
+      "bytes": 135721,
+      "width": 1080,
+      "height": 1600
+    },
+    "local_trend": {
+      "filename": "02-local-trend.png",
+      "sha256": "b1f12cc9387178021fe955642360cabd6f26b1c857d13b3b91a2787dac8696e7",
+      "bytes": 193041,
+      "width": 1080,
+      "height": 1600
+    },
+    "regional_context": {
+      "filename": "03-regional-context.png",
+      "sha256": "1a7ca5b67ccaea8d7955de8453a8a498f4825677a921587a0a919616a9e3007a",
+      "bytes": 634403,
+      "width": 1080,
+      "height": 1600
+    }
+  }
+}
