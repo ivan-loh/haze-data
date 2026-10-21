@@ -2,9 +2,9 @@
   "schema_version": 1,
   "timezone": "Asia/Kuala_Lumpur",
   "scale": "Malaysia DOE API",
-  "scale_note": "Malaysia's API differs from US AQI / IQAir values.",
-  "reading_time": "2026-10-20T22:00:00+08:00",
-  "generated_at": "2026-10-20T22:17:19+08:00",
+  "scale_note": "Malaysia API is not US AQI.",
+  "reading_time": "2026-10-21T10:00:00+08:00",
+  "generated_at": "2026-10-21T10:24:02+08:00",
   "mode": "live",
   "pj": {
     "id": "CA19B",
@@ -12,11 +12,11 @@
     "state": "selangor",
     "latitude": 3.130875,
     "longitude": 101.60868,
-    "api": 164,
+    "api": 156,
     "band": "Unhealthy",
-    "time": "2026-10-20T22:00:00+08:00",
-    "previous_3h_api": 166,
-    "yesterday_same_hour_api": 160
+    "time": "2026-10-21T10:00:00+08:00",
+    "previous_3h_api": 158,
+    "yesterday_same_hour_api": 168
   },
   "stations": [
     {
@@ -25,9 +25,9 @@
       "state": "perlis",
       "latitude": 6.429928,
       "longitude": 100.210937,
-      "api": 51,
-      "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 48,
+      "band": "Good",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA02K",
@@ -35,9 +35,9 @@
       "state": "kedah",
       "latitude": 6.331608,
       "longitude": 99.858461,
-      "api": 32,
+      "api": 29,
       "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA03K",
@@ -45,9 +45,9 @@
       "state": "kedah",
       "latitude": 6.13713,
       "longitude": 100.346857,
-      "api": 46,
+      "api": 49,
       "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA04K",
@@ -55,9 +55,9 @@
       "state": "kedah",
       "latitude": 5.629709,
       "longitude": 100.46771,
-      "api": 72,
+      "api": 58,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA05K",
@@ -65,9 +65,9 @@
       "state": "kedah",
       "latitude": 5.401634,
       "longitude": 100.589653,
-      "api": 73,
+      "api": 65,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA06P",
@@ -75,9 +75,9 @@
       "state": "pulau-pinang",
       "latitude": 5.398419,
       "longitude": 100.403976,
-      "api": 77,
+      "api": 64,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA07P",
@@ -85,9 +85,9 @@
       "state": "pulau-pinang",
       "latitude": 5.329421,
       "longitude": 100.443457,
-      "api": 79,
+      "api": 66,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA08P",
@@ -95,9 +95,9 @@
       "state": "pulau-pinang",
       "latitude": 5.356226,
       "longitude": 100.30794,
-      "api": 71,
+      "api": 59,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA09P",
@@ -105,9 +105,9 @@
       "state": "pulau-pinang",
       "latitude": 5.337128,
       "longitude": 100.216642,
-      "api": 46,
-      "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 53,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA10A",
@@ -115,9 +115,9 @@
       "state": "perak",
       "latitude": 4.898865,
       "longitude": 100.679133,
-      "api": 79,
+      "api": 71,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA11A",
@@ -125,9 +125,9 @@
       "state": "perak",
       "latitude": 4.629462,
       "longitude": 101.116669,
-      "api": 115,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 80,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA12A",
@@ -135,9 +135,9 @@
       "state": "perak",
       "latitude": 4.553367,
       "longitude": 101.080261,
-      "api": 96,
+      "api": 75,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA13A",
@@ -145,9 +145,9 @@
       "state": "perak",
       "latitude": 4.200385,
       "longitude": 100.663346,
-      "api": 93,
+      "api": 83,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA14A",
@@ -155,9 +155,9 @@
       "state": "perak",
       "latitude": 3.687721,
       "longitude": 101.524446,
-      "api": 90,
+      "api": 80,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA15W",
@@ -165,9 +165,9 @@
       "state": "wp-kuala-lumpur",
       "latitude": 3.212429,
       "longitude": 101.682218,
-      "api": 166,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA16W",
@@ -175,9 +175,9 @@
       "state": "wp-kuala-lumpur",
       "latitude": 3.10626,
       "longitude": 101.717931,
-      "api": 165,
+      "api": 159,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA17W",
@@ -185,9 +185,9 @@
       "state": "wp-putrajaya",
       "latitude": 2.915793,
       "longitude": 101.690946,
-      "api": 162,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA18B",
@@ -195,9 +195,9 @@
       "state": "selangor",
       "latitude": 3.321362,
       "longitude": 101.256249,
-      "api": 93,
+      "api": 80,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA19B",
@@ -205,9 +205,9 @@
       "state": "selangor",
       "latitude": 3.130875,
       "longitude": 101.60868,
-      "api": 164,
+      "api": 156,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA20B",
@@ -215,9 +215,9 @@
       "state": "selangor",
       "latitude": 3.10475,
       "longitude": 101.556192,
-      "api": 166,
+      "api": 157,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA21B",
@@ -225,9 +225,9 @@
       "state": "selangor",
       "latitude": 3.014899,
       "longitude": 101.413136,
-      "api": 164,
+      "api": 160,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA22B",
@@ -235,9 +235,9 @@
       "state": "selangor",
       "latitude": 2.816668,
       "longitude": 101.623043,
-      "api": 162,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA23N",
@@ -245,9 +245,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.821676,
       "longitude": 101.81153,
-      "api": 164,
+      "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA24N",
@@ -255,9 +255,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.723441,
       "longitude": 101.968395,
-      "api": 157,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA25N",
@@ -265,9 +265,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.441332,
       "longitude": 101.866829,
-      "api": 157,
+      "api": 155,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA26M",
@@ -277,7 +277,7 @@
       "longitude": 102.223199,
       "api": 157,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA27M",
@@ -285,9 +285,9 @@
       "state": "melaka",
       "latitude": 2.268461,
       "longitude": 102.193636,
-      "api": 170,
+      "api": 174,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA28M",
@@ -295,9 +295,9 @@
       "state": "melaka",
       "latitude": 2.190929,
       "longitude": 102.257066,
-      "api": 160,
+      "api": 161,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA29J",
@@ -305,9 +305,9 @@
       "state": "johor",
       "latitude": 2.49401,
       "longitude": 102.863487,
-      "api": 97,
-      "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 141,
+      "band": "Unhealthy",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA31J",
@@ -315,9 +315,9 @@
       "state": "johor",
       "latitude": 1.919098,
       "longitude": 102.86584,
-      "api": 157,
+      "api": 156,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA32J",
@@ -325,9 +325,9 @@
       "state": "johor",
       "latitude": 2.036936,
       "longitude": 103.312179,
-      "api": 153,
+      "api": 151,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA33J",
@@ -335,9 +335,9 @@
       "state": "johor",
       "latitude": 1.494616,
       "longitude": 103.735922,
-      "api": 158,
+      "api": 155,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA34J",
@@ -345,9 +345,9 @@
       "state": "johor",
       "latitude": 1.470121,
       "longitude": 103.89366,
-      "api": 156,
+      "api": 151,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA35J",
@@ -355,9 +355,9 @@
       "state": "johor",
       "latitude": 1.389999,
       "longitude": 104.14956,
-      "api": 153,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 97,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA36J",
@@ -365,9 +365,9 @@
       "state": "johor",
       "latitude": 1.564027,
       "longitude": 104.22533,
-      "api": 153,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 97,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA37C",
@@ -375,9 +375,9 @@
       "state": "pahang",
       "latitude": 2.927699,
       "longitude": 103.419193,
-      "api": 93,
+      "api": 91,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA38C",
@@ -385,9 +385,9 @@
       "state": "pahang",
       "latitude": 3.470806,
       "longitude": 102.378663,
-      "api": 96,
+      "api": 97,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA39C",
@@ -395,9 +395,9 @@
       "state": "pahang",
       "latitude": 3.948312,
       "longitude": 102.366683,
-      "api": 93,
+      "api": 94,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA40C",
@@ -405,9 +405,9 @@
       "state": "pahang",
       "latitude": 3.819228,
       "longitude": 103.296553,
-      "api": 92,
+      "api": 86,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA41C",
@@ -415,9 +415,9 @@
       "state": "pahang",
       "latitude": 3.960669,
       "longitude": 103.382182,
-      "api": 90,
+      "api": 87,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA42T",
@@ -425,9 +425,9 @@
       "state": "terengganu",
       "latitude": 4.26215,
       "longitude": 103.425839,
-      "api": 93,
+      "api": 83,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA43T",
@@ -435,9 +435,9 @@
       "state": "terengganu",
       "latitude": 4.598131,
       "longitude": 103.434793,
-      "api": 154,
+      "api": 153,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA44T",
@@ -445,9 +445,9 @@
       "state": "terengganu",
       "latitude": 5.308144,
       "longitude": 103.120435,
-      "api": 78,
+      "api": 66,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA45T",
@@ -455,9 +455,9 @@
       "state": "terengganu",
       "latitude": 5.743342,
       "longitude": 102.513478,
-      "api": 65,
+      "api": 66,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA46D",
@@ -465,9 +465,9 @@
       "state": "kelantan",
       "latitude": 5.811251,
       "longitude": 102.134517,
-      "api": 61,
+      "api": 66,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA47D",
@@ -475,9 +475,9 @@
       "state": "kelantan",
       "latitude": 6.147439,
       "longitude": 102.249233,
-      "api": 71,
+      "api": 66,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA48S",
@@ -485,9 +485,9 @@
       "state": "sabah",
       "latitude": 4.249853,
       "longitude": 117.935858,
-      "api": 66,
+      "api": 63,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA49S",
@@ -495,9 +495,9 @@
       "state": "sabah",
       "latitude": 5.864474,
       "longitude": 118.091062,
-      "api": 53,
-      "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 41,
+      "band": "Good",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA50S",
@@ -505,9 +505,9 @@
       "state": "sabah",
       "latitude": 5.879672,
       "longitude": 116.056388,
-      "api": 49,
-      "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 52,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA51S",
@@ -515,9 +515,9 @@
       "state": "sabah",
       "latitude": 5.597719,
       "longitude": 115.88833,
-      "api": 35,
+      "api": 44,
       "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA52S",
@@ -525,9 +525,9 @@
       "state": "sabah",
       "latitude": 5.339426,
       "longitude": 116.163683,
-      "api": 56,
+      "api": 55,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA53L",
@@ -535,9 +535,9 @@
       "state": "wp-labuan",
       "latitude": 5.298106,
       "longitude": 115.232276,
-      "api": 59,
+      "api": 58,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA54Q",
@@ -545,9 +545,9 @@
       "state": "sarawak",
       "latitude": 4.758824,
       "longitude": 115.01366,
-      "api": 41,
+      "api": 45,
       "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA55Q",
@@ -555,9 +555,9 @@
       "state": "sarawak",
       "latitude": 4.49474,
       "longitude": 114.043375,
-      "api": 44,
-      "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "api": 52,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA56Q",
@@ -565,9 +565,9 @@
       "state": "sarawak",
       "latitude": 4.424563,
       "longitude": 114.012368,
-      "api": 39,
+      "api": 41,
       "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA57Q",
@@ -575,9 +575,9 @@
       "state": "sarawak",
       "latitude": 3.532722,
       "longitude": 113.325812,
-      "api": 55,
+      "api": 59,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA58Q",
@@ -585,9 +585,9 @@
       "state": "sarawak",
       "latitude": 3.177155,
       "longitude": 113.041171,
-      "api": 55,
+      "api": 62,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA59Q",
@@ -595,9 +595,9 @@
       "state": "sarawak",
       "latitude": 2.870617,
       "longitude": 112.019994,
-      "api": 61,
+      "api": 52,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA60Q",
@@ -607,7 +607,7 @@
       "longitude": 112.927323,
       "api": 54,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA61Q",
@@ -615,9 +615,9 @@
       "state": "sarawak",
       "latitude": 2.314322,
       "longitude": 111.831933,
-      "api": 62,
+      "api": 54,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA62Q",
@@ -625,9 +625,9 @@
       "state": "sarawak",
       "latitude": 2.132909,
       "longitude": 111.522885,
-      "api": 65,
+      "api": 57,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA63Q",
@@ -635,9 +635,9 @@
       "state": "sarawak",
       "latitude": 1.219718,
       "longitude": 111.464871,
-      "api": 71,
+      "api": 68,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA64Q",
@@ -645,9 +645,9 @@
       "state": "sarawak",
       "latitude": 1.454806,
       "longitude": 110.491506,
-      "api": 77,
+      "api": 67,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA65Q",
@@ -655,9 +655,9 @@
       "state": "sarawak",
       "latitude": 1.562167,
       "longitude": 110.388916,
-      "api": 68,
+      "api": 60,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA66J",
@@ -665,72 +665,61 @@
       "state": "johor",
       "latitude": 2.295748,
       "longitude": 102.571313,
-      "api": 153,
+      "api": 148,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "MCAQM001",
-      "name": "Johan Setia",
+      "name": "JOHAN SETIA",
       "state": "selangor",
-      "latitude": 2.978311,
-      "longitude": 101.489422,
-      "api": 169,
+      "latitude": 2.978644,
+      "longitude": 101.490107,
+      "api": 160,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "MCAQM002",
-      "name": "KENYALANG",
+      "name": "IPD Serian",
       "state": "sarawak",
-      "latitude": 1.172556,
-      "longitude": 110.568164,
-      "api": 71,
+      "latitude": 1.17247,
+      "longitude": 110.56807,
+      "api": 60,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "MCAQM003",
-      "name": "RAFFLESIA",
+      "name": "Politeknik Kota Kinabalu",
       "state": "sabah",
       "latitude": 6.097122,
-      "longitude": 116.166454,
-      "api": 50,
-      "band": "Good",
-      "time": "2026-10-20T22:00:00+08:00"
+      "longitude": 116.166392,
+      "api": 56,
+      "band": "Moderate",
+      "time": "2026-10-21T10:00:00+08:00"
     }
   ],
   "peninsula": {
     "stations": 48,
     "counts": {
       "Good": 3,
-      "Moderate": 22,
-      "Unhealthy": 23,
+      "Moderate": 24,
+      "Unhealthy": 21,
       "Very Unhealthy": 0,
       "Hazardous": 0
-    },
-    "unresolved_state_count": 0
+    }
   },
   "klang_valley": [
     {
-      "id": "MCAQM001",
-      "name": "Johan Setia",
+      "id": "CA19B",
+      "name": "Petaling Jaya",
       "state": "selangor",
-      "latitude": 2.978311,
-      "longitude": 101.489422,
-      "api": 169,
+      "latitude": 3.130875,
+      "longitude": 101.60868,
+      "api": 156,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
-    },
-    {
-      "id": "CA15W",
-      "name": "Batu Muda",
-      "state": "wp-kuala-lumpur",
-      "latitude": 3.212429,
-      "longitude": 101.682218,
-      "api": 166,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA20B",
@@ -738,29 +727,9 @@
       "state": "selangor",
       "latitude": 3.10475,
       "longitude": 101.556192,
-      "api": 166,
+      "api": 157,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
-    },
-    {
-      "id": "CA16W",
-      "name": "Cheras",
-      "state": "wp-kuala-lumpur",
-      "latitude": 3.10626,
-      "longitude": 101.717931,
-      "api": 165,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
-    },
-    {
-      "id": "CA19B",
-      "name": "Petaling Jaya",
-      "state": "selangor",
-      "latitude": 3.130875,
-      "longitude": 101.60868,
-      "api": 164,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA21B",
@@ -768,19 +737,9 @@
       "state": "selangor",
       "latitude": 3.014899,
       "longitude": 101.413136,
-      "api": 164,
+      "api": 160,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
-    },
-    {
-      "id": "CA17W",
-      "name": "Putrajaya",
-      "state": "wp-putrajaya",
-      "latitude": 2.915793,
-      "longitude": 101.690946,
-      "api": 162,
-      "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA22B",
@@ -788,9 +747,9 @@
       "state": "selangor",
       "latitude": 2.816668,
       "longitude": 101.623043,
-      "api": 162,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
       "id": "CA18B",
@@ -798,9 +757,49 @@
       "state": "selangor",
       "latitude": 3.321362,
       "longitude": 101.256249,
-      "api": 93,
+      "api": 80,
       "band": "Moderate",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
+    },
+    {
+      "id": "CA15W",
+      "name": "Batu Muda",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.212429,
+      "longitude": 101.682218,
+      "api": 158,
+      "band": "Unhealthy",
+      "time": "2026-10-21T10:00:00+08:00"
+    },
+    {
+      "id": "CA16W",
+      "name": "Cheras",
+      "state": "wp-kuala-lumpur",
+      "latitude": 3.10626,
+      "longitude": 101.717931,
+      "api": 159,
+      "band": "Unhealthy",
+      "time": "2026-10-21T10:00:00+08:00"
+    },
+    {
+      "id": "CA17W",
+      "name": "Putrajaya",
+      "state": "wp-putrajaya",
+      "latitude": 2.915793,
+      "longitude": 101.690946,
+      "api": 158,
+      "band": "Unhealthy",
+      "time": "2026-10-21T10:00:00+08:00"
+    },
+    {
+      "id": "MCAQM001",
+      "name": "JOHAN SETIA",
+      "state": "selangor",
+      "latitude": 2.978644,
+      "longitude": 101.490107,
+      "api": 160,
+      "band": "Unhealthy",
+      "time": "2026-10-21T10:00:00+08:00"
     }
   ],
   "worst3": [
@@ -810,569 +809,514 @@
       "state": "melaka",
       "latitude": 2.268461,
       "longitude": 102.193636,
-      "api": 170,
+      "api": 174,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
-      "id": "MCAQM001",
-      "name": "Johan Setia",
-      "state": "selangor",
-      "latitude": 2.978311,
-      "longitude": 101.489422,
-      "api": 169,
+      "id": "CA23N",
+      "name": "Nilai",
+      "state": "negeri-sembilan",
+      "latitude": 2.821676,
+      "longitude": 101.81153,
+      "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     },
     {
-      "id": "CA15W",
-      "name": "Batu Muda",
-      "state": "wp-kuala-lumpur",
-      "latitude": 3.212429,
-      "longitude": 101.682218,
-      "api": 166,
+      "id": "CA28M",
+      "name": "Bandaraya Melaka",
+      "state": "melaka",
+      "latitude": 2.190929,
+      "longitude": 102.257066,
+      "api": 161,
       "band": "Unhealthy",
-      "time": "2026-10-20T22:00:00+08:00"
+      "time": "2026-10-21T10:00:00+08:00"
     }
   ],
   "trend": {
     "station_id": "CA19B",
     "points": [
       {
-        "time": "2026-10-17T22:00:00+08:00",
-        "api": 165,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-17T23:00:00+08:00",
-        "api": 165,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T00:00:00+08:00",
-        "api": 165,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T01:00:00+08:00",
-        "api": 165,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T02:00:00+08:00",
-        "api": 164,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T03:00:00+08:00",
-        "api": 163,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T04:00:00+08:00",
-        "api": 162,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T05:00:00+08:00",
-        "api": 161,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T06:00:00+08:00",
-        "api": 160,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T07:00:00+08:00",
-        "api": 158,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T08:00:00+08:00",
-        "api": 157,
-        "source": "semakapi"
-      },
-      {
-        "time": "2026-10-18T09:00:00+08:00",
-        "api": 157,
-        "source": "semakapi"
-      },
-      {
         "time": "2026-10-18T10:00:00+08:00",
         "api": 156,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T11:00:00+08:00",
         "api": 156,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T12:00:00+08:00",
         "api": 156,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T13:00:00+08:00",
         "api": 155,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T14:00:00+08:00",
         "api": 155,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T15:00:00+08:00",
         "api": 154,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T16:00:00+08:00",
         "api": 154,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T17:00:00+08:00",
         "api": 155,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T18:00:00+08:00",
         "api": 156,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T19:00:00+08:00",
         "api": 157,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T20:00:00+08:00",
         "api": 158,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T21:00:00+08:00",
         "api": 158,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T22:00:00+08:00",
         "api": 159,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-18T23:00:00+08:00",
         "api": 159,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T00:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T01:00:00+08:00",
         "api": 161,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T02:00:00+08:00",
         "api": 161,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T03:00:00+08:00",
         "api": 162,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T04:00:00+08:00",
         "api": 162,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T05:00:00+08:00",
         "api": 162,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T06:00:00+08:00",
         "api": 161,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T07:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T08:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T09:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T10:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T11:00:00+08:00",
         "api": 159,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T12:00:00+08:00",
         "api": 159,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T13:00:00+08:00",
         "api": 158,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T14:00:00+08:00",
         "api": 157,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T15:00:00+08:00",
         "api": 157,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T16:00:00+08:00",
         "api": 158,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T17:00:00+08:00",
         "api": 159,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T18:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T19:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T20:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T21:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T22:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-19T23:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T00:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T01:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T02:00:00+08:00",
         "api": 160,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T03:00:00+08:00",
         "api": 161,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T04:00:00+08:00",
         "api": 161,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T05:00:00+08:00",
         "api": 162,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T06:00:00+08:00",
         "api": 164,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T07:00:00+08:00",
         "api": 165,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T08:00:00+08:00",
         "api": 166,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T09:00:00+08:00",
         "api": 167,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T10:00:00+08:00",
         "api": 168,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T11:00:00+08:00",
         "api": 168,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T12:00:00+08:00",
         "api": 169,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T13:00:00+08:00",
         "api": 169,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T14:00:00+08:00",
         "api": 170,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T15:00:00+08:00",
         "api": 170,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T16:00:00+08:00",
         "api": 169,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T17:00:00+08:00",
         "api": 169,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T18:00:00+08:00",
         "api": 167,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T19:00:00+08:00",
         "api": 166,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T20:00:00+08:00",
         "api": 165,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T21:00:00+08:00",
         "api": 164,
-        "source": "semakapi"
+        "source": "DOE"
       },
       {
         "time": "2026-10-20T22:00:00+08:00",
         "api": 164,
-        "source": "poster"
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-20T23:00:00+08:00",
+        "api": 163,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T00:00:00+08:00",
+        "api": 162,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T01:00:00+08:00",
+        "api": 161,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T02:00:00+08:00",
+        "api": 161,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T03:00:00+08:00",
+        "api": 160,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T04:00:00+08:00",
+        "api": 159,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T05:00:00+08:00",
+        "api": 159,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T06:00:00+08:00",
+        "api": 158,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T07:00:00+08:00",
+        "api": 158,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T08:00:00+08:00",
+        "api": 157,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T09:00:00+08:00",
+        "api": 157,
+        "source": "DOE"
+      },
+      {
+        "time": "2026-10-21T10:00:00+08:00",
+        "api": 156,
+        "source": "DOE"
       }
     ],
-    "gaps": 0,
+    "gaps": [],
     "source_counts": {
-      "semakapi": 72,
-      "poster": 1
+      "DOE": 73
     }
   },
   "hotspots": {
-    "total": 1123,
-    "kalimantan": 554,
-    "sumatra": 228,
-    "p_malaysia": 0,
-    "sabah_sarawak": 6,
-    "pass_time": "2026-10-20T14:05:00+08:00"
+    "Nusa Tenggara": 33,
+    "Java": 48,
+    "Sulawesi": 188,
+    "East_Timor": 4,
+    "Kalimantan": 554,
+    "Sumatra": 228,
+    "Vietnam": 38,
+    "Cambodia": 5,
+    "Lao_PDR": 3,
+    "Thailand": 14,
+    "SabahSarawak": 6,
+    "Myanmar": 2,
+    "P_Malaysia": 0
   },
   "satellite_date": "2026-10-19",
-  "freshness": {
-    "as_of": "2026-10-20T22:17:19+08:00",
-    "reading_age_hours": 0.29,
-    "reading_stale": false,
-    "hotspots_age_hours": 8.21,
-    "hotspots_stale": true,
-    "satellite_older_than_expected": true
-  },
+  "freshness": {},
   "degraded_sources": [],
   "provenance": [
     {
-      "source": "DOE",
-      "url": "https://eqms.doe.gov.my/",
-      "mode": "live",
-      "data_times": [
-        "2026-10-20T22:00:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "DOE-map",
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/mapcaqm",
+      "fetched_at": "2026-10-21T10:24:08+08:00",
+      "sha256": "0447f1fc9f6e1971fb69aa01df558b51b7ef2c2b176fb00b72a70d479c664fed"
     },
     {
-      "source": "MetMalaysia",
-      "url": "https://api.data.gov.my/weather/forecast/",
-      "mode": "live",
-      "data_times": [
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "DOE-trend-0",
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-21T10:00:00",
+      "fetched_at": "2026-10-21T10:24:14+08:00",
+      "sha256": "a8bb2ea5aaa0345274221a94fbf51211bc923c2dc5d216f9568a95a7d4a69b6a"
     },
     {
-      "source": "SemakAPI",
-      "url": "https://semakapi.my/",
-      "mode": "live",
-      "data_times": [
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-18",
-        "2026-10-19",
-        "2026-10-20"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "DOE-trend-24",
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-20T10:00:00",
+      "fetched_at": "2026-10-21T10:24:19+08:00",
+      "sha256": "e839441a52e3560eca966c0fd84835e061608512162a0f8ce24fffd505e4f000"
     },
     {
-      "source": "NASA",
-      "url": "https://worldview.earthdata.nasa.gov/",
-      "mode": "live",
-      "data_times": [
-        "2026-10-19"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "DOE-trend-48",
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-19T10:00:00",
+      "fetched_at": "2026-10-21T10:24:24+08:00",
+      "sha256": "b4788939682fd7a973d5663e32c4689b6bc9e6e13db92a2fa1e29964e44c3be7"
     },
     {
-      "source": "ASMC",
-      "url": "https://asmc.asean.org/",
-      "mode": "live",
-      "data_times": [
-        "2026-10-20T14:05:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "metmalaysia-forecast",
+      "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
+      "fetched_at": "2026-10-21T10:24:28+08:00",
+      "sha256": "67b32fe699df81d9e4aaa3bf768c061aed8b9336a20048026d0f6aa56d0ad3b2"
     },
     {
-      "source": "reading hour",
-      "url": null,
-      "mode": "live",
-      "data_times": [
-        "2026-10-20T22:00:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "asmc-home",
+      "url": "https://asmc.asean.org/home/",
+      "fetched_at": "2026-10-21T10:24:42+08:00",
+      "sha256": "3fe05733f23c9654c9ecfd0a5e51a6025e83b2bbe7a77f822dda2ab27b95a6ef"
     },
     {
-      "source": "PJ trend",
-      "url": null,
-      "mode": "live",
-      "data_times": [
-        "2026-10-17T22:00:00+08:00",
-        "2026-10-20T22:00:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "asmc-hotspots",
+      "url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261020_164600.kml",
+      "fetched_at": "2026-10-21T10:24:48+08:00",
+      "sha256": "221fdf0f8774c857f5673a3fe2536db75f828fcbfb589d7b7d827db656ed8c30"
     },
     {
-      "source": "map",
-      "url": null,
-      "mode": "live",
-      "data_times": [
-        "2026-10-20T22:00:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "naturalearth-admin1",
+      "url": "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_1_states_provinces.zip",
+      "fetched_at": "2026-10-21T10:24:55+08:00",
+      "sha256": "efc59726337323058f9446210adc96673179cd344e053666ee3d28cb58ba2b05"
     },
     {
-      "source": "station states",
-      "url": null,
-      "mode": "live",
-      "data_times": [
-        "2026-10-20T22:00:00+08:00"
-      ],
-      "fetched_at": "2026-10-20T22:17:19+08:00"
+      "source": "nasa-2026-10-21-base",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-21&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:00+08:00",
+      "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
+    },
+    {
+      "source": "nasa-2026-10-21-overlay",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-21&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:04+08:00",
+      "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
+    },
+    {
+      "source": "nasa-2026-10-20-base",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-20&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:09+08:00",
+      "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
+    },
+    {
+      "source": "nasa-2026-10-20-overlay",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-20&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:12+08:00",
+      "sha256": "3866930d95fa872ee9bee96ecb21f95b89e177fa766a59013f4e988dfa3d2437"
+    },
+    {
+      "source": "nasa-2026-10-19-base",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:17+08:00",
+      "sha256": "5f147a18f15d2079fa65cdcfbcd81ab742f45f8bf2f7e5d607b04282f95b0705"
+    },
+    {
+      "source": "nasa-2026-10-19-overlay",
+      "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
+      "fetched_at": "2026-10-21T10:25:21+08:00",
+      "sha256": "fa2457e709e7def89d6cc1dfc90801cc5c5745cd4e5529193afc413c0e7b0d34"
     }
   ],
   "render_inputs": {
-    "warning_flags": [
-      "hotspots-stale",
-      "satellite-older-than-expected"
-    ],
     "version": 1,
     "renderer": {
-      "geometry_sha256": {
-        "ne_10m_admin_0_boundary_lines_land.dbf": "103d9b00b684b0380d8ded830d24a1406ed28cbb6c1f4dc3df21c50cac615403",
-        "ne_10m_admin_0_boundary_lines_land.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_admin_0_boundary_lines_land.shp": "b6811b9e2f6ed40b31622e6d261210c5e6afded9b7ad71977d3658293f56373f",
-        "ne_10m_admin_0_boundary_lines_land.shx": "e4128caba567cd9e0b11f3a2a0f0b18dfc8f0bb3cd03f2535f750887d6b86fe5",
-        "ne_10m_admin_0_countries.dbf": "c5dbd3dd5fd7e2ef49051fc88562c03819e8ea63a382642df6eadd1243bf4b49",
-        "ne_10m_admin_0_countries.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_admin_0_countries.shp": "7ce119ef6342e43cff7c0c3004e0911ab7ec1988a14734372031d2012180e7bc",
-        "ne_10m_admin_0_countries.shx": "ca19ec112d054c77bc8f7ac00e3b110d5dff32cc9bcf4cd1b8b66bdd0f611d32",
-        "ne_10m_admin_1_states_provinces.dbf": "445a8a9bea889634faf0af18081830df0b05b8471fc6af8dc42aecdd7a71bba1",
-        "ne_10m_admin_1_states_provinces.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_admin_1_states_provinces.shp": "c6f5c8b4b1320d9417033762419c6df1eb423989cd880fba78ea0b1e3522cbe4",
-        "ne_10m_admin_1_states_provinces.shx": "37a9e2bc79ed31d3bdea3cb62d928f77281a1c88d645cd33430231c75dbcf350",
-        "ne_10m_admin_1_states_provinces_lines.dbf": "b524fd1baf59386cd4bca0d6df642ddb02be9cdc4d69f1f1d109885acf21d9ed",
-        "ne_10m_admin_1_states_provinces_lines.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_admin_1_states_provinces_lines.shp": "c89b8545fdb03a764df9de2efeadf0d6735169d94b48a315b5e233780e073ab5",
-        "ne_10m_admin_1_states_provinces_lines.shx": "ba65a7072e06b5454bca8c0a527978333571f3ce45094f006a60f18f8509db10",
-        "ne_10m_coastline.dbf": "9ccc214342fe400bf8c7d91d7a5b276b0457b0ada03e8d4be16ac5ba13037f3b",
-        "ne_10m_coastline.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_coastline.shp": "459a4a97c09db19aadf5244026612de9d43748be27f83a360242b99f7fabb3c1",
-        "ne_10m_coastline.shx": "f873afee7f56779ce52253f740ec251c2f12244aea911dc40f0a85d75de8d5f2",
-        "ne_10m_land.dbf": "e422520372e65c6fb8220888580e5331d04699bcd71c27e53ad42e241a531cbd",
-        "ne_10m_land.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-        "ne_10m_land.shp": "4cad3a49bc75c1a4c2f3d7efae04f2f8e63151c96764b2658effabf524331fa6",
-        "ne_10m_land.shx": "f3b02a190c3020eeafd0f48de982619826b57ecd853cbc68e4fc049652891a04"
-      },
-      "version": "english-editorial-v8-satellite-validation-1",
-      "assets_sha256": {
-        "make_jerebu_a4.py": "84b32aef7c232bba5642269b1fd12ef2a85bd4cf6468b06ac4bb16ce04bc03f0",
-        "src/data.py": "3d7e479fe271225bee33e7675a8ad047b4c14e7614ef4eb7b3d5443fc688b9b7",
-        "src/render.py": "a3024a81380411a038b650947d590318b8bb9055c9b6f86ac1fa34f24f064631",
-        "src/hourly_map.py": "71ae4022429dce327b368d68d814f33c1c5f482cb5576895038df455361783d7",
-        "fonts/InterVariable.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
-        "data/stations.json": "3bbdb32125277eb8c895c76d1cddc58222ad9ea9984504f57d81d4fdf504ce8a",
-        "src/a4_tpl.html": "264127d0c30ab3c50e51aff029ef57093e70e12b24a4e55d3dbb09f1119922e0",
-        "src/carousel.py": "a5875e2e0d1240861d2ba24fb4a0fd8900acb3df9ac418da6c5afe495b12d03a",
-        "src/sat_a4.py": "9b0632a1236926c3c4ecf2123c87b1dd986e9e4242f62b0acf5fc5a04c2e0126",
-        "src/trend.py": "8f33c2d6e87ebb376c1e361dc63e8840d1afcc567729aa98ff155e8ac8855d2c",
-        "src/map_a4.py": "448455868dc535d1f6c82db0aec1d8c09da9c0671eb0e6fa71cac6fceb8e09b7",
-        "src/bands.py": "4f281fbf7deaaa568a0013999930fb48e264ca8cba15dda0b4601bf6d3744fdc",
-        "fonts/Inter-Bold.ttf": "965d8f7af49c88a8fe996d6896160935e4a551bd15e0aca0222648d9de1d8090",
-        "fonts/Inter-SemiBold.ttf": "0f50d0833e23d7560d03c019fc876a9ed6f0ef9ce49a0004afb652582b6b2362",
-        "fonts/Inter-ExtraBold.ttf": "fe3747195ae517072c2fa1d05481cf4237862f6caad079c561932969bd97c9a3"
-      },
+      "version": "rebuild-2026-10-21-v1",
+      "palette_source": "Approved Haze Update poster palette; differs from current DOE website UI colors",
       "a4": {
         "width": 2480,
         "height": 3508,
@@ -1383,7 +1327,6 @@
         "height": 1600
       },
       "language": "en",
-      "geography": "Natural Earth 10m admin_1 and countries; bundle with renderer",
       "bands": [
         {
           "max_api": 50,
@@ -1420,165 +1363,63 @@
           "foreground": "#fff",
           "number_color": "#6A1B4D"
         }
-      ]
+      ],
+      "geometry": {
+        "url": "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_0_countries.zip",
+        "sha256": "ce1ac7036499a0edd641fbc093cd209a98f96a49d2eca8480aaacad35138a7f6"
+      }
     },
     "selection": {
-      "station_sources": {
-        "CA01R": "DOE",
-        "CA02K": "DOE",
-        "CA03K": "DOE",
-        "CA04K": "DOE",
-        "CA05K": "DOE",
-        "CA06P": "DOE",
-        "CA07P": "DOE",
-        "CA08P": "DOE",
-        "CA09P": "DOE",
-        "CA10A": "DOE",
-        "CA11A": "DOE",
-        "CA12A": "DOE",
-        "CA13A": "DOE",
-        "CA14A": "DOE",
-        "CA15W": "DOE",
-        "CA16W": "DOE",
-        "CA17W": "DOE",
-        "CA18B": "DOE",
-        "CA19B": "DOE",
-        "CA20B": "DOE",
-        "CA21B": "DOE",
-        "CA22B": "DOE",
-        "CA23N": "DOE",
-        "CA24N": "DOE",
-        "CA25N": "DOE",
-        "CA26M": "DOE",
-        "CA27M": "DOE",
-        "CA28M": "DOE",
-        "CA29J": "DOE",
-        "CA31J": "DOE",
-        "CA32J": "DOE",
-        "CA33J": "DOE",
-        "CA34J": "DOE",
-        "CA35J": "DOE",
-        "CA36J": "DOE",
-        "CA37C": "DOE",
-        "CA38C": "DOE",
-        "CA39C": "DOE",
-        "CA40C": "DOE",
-        "CA41C": "DOE",
-        "CA42T": "DOE",
-        "CA43T": "DOE",
-        "CA44T": "DOE",
-        "CA45T": "DOE",
-        "CA46D": "DOE",
-        "CA47D": "DOE",
-        "CA48S": "DOE",
-        "CA49S": "DOE",
-        "CA50S": "DOE",
-        "CA51S": "DOE",
-        "CA52S": "DOE",
-        "CA53L": "DOE",
-        "CA54Q": "DOE",
-        "CA55Q": "DOE",
-        "CA56Q": "DOE",
-        "CA57Q": "DOE",
-        "CA58Q": "DOE",
-        "CA59Q": "DOE",
-        "CA60Q": "DOE",
-        "CA61Q": "DOE",
-        "CA62Q": "DOE",
-        "CA63Q": "DOE",
-        "CA64Q": "DOE",
-        "CA65Q": "DOE",
-        "CA66J": "DOE",
-        "MCAQM001": "DOE",
-        "MCAQM002": "DOE",
-        "MCAQM003": "DOE"
-      },
-      "source_counts": {
-        "DOE": 68
-      },
       "eligible_stations": 68,
       "published_stations": 68,
       "minimum_coverage_fraction": 0.9,
-      "peninsula_expected_stations": 48,
-      "policy": "newest complete hour; DOE first, exact-hour SemakAPI fill",
-      "state_resolution": "DOE STATE_ID, location suffix, template, fixed registry",
-      "current_hour": "2026-10-20T22:00:00+08:00",
-      "current_hour_coverage": 68,
-      "newest_hour_incomplete": false,
-      "mismatches": [],
-      "state_conflicts": [],
-      "daily_fetches": [
-        {
-          "date": "2026-10-16",
-          "mode": "live"
-        },
-        {
-          "date": "2026-10-17",
-          "mode": "live"
-        },
-        {
-          "date": "2026-10-18",
-          "mode": "live"
-        },
-        {
-          "date": "2026-10-19",
-          "mode": "live"
-        },
-        {
-          "date": "2026-10-20",
-          "mode": "live"
-        }
-      ]
+      "policy": "Newest official DOE map hour with at least 90% active stations and all nine local stations",
+      "source_counts": {}
     },
     "forecast": {
       "location_id": "Tn076",
       "location_name": "Petaling Jaya",
-      "clock_time": "2026-10-20T22:17:19+08:00",
-      "tonight": true,
+      "clock_time": "2026-10-21T10:24:02+08:00",
+      "tonight": false,
+      "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
       "days": [
-        {
-          "date": "2026-10-20",
-          "morning": "Rain",
-          "afternoon": "Thunderstorms",
-          "night": "Hazy",
-          "min_temp_c": 24,
-          "max_temp_c": 33
-        },
         {
           "date": "2026-10-21",
           "morning": "Hazy",
           "afternoon": "Thunderstorms",
           "night": "Hazy",
-          "min_temp_c": 24,
-          "max_temp_c": 33
+          "min_temp_c": 25,
+          "max_temp_c": 34
+        },
+        {
+          "date": "2026-10-22",
+          "morning": "Hazy",
+          "afternoon": "Thunderstorms",
+          "night": "Hazy",
+          "min_temp_c": 25,
+          "max_temp_c": 34
         }
-      ],
-      "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14"
+      ]
     },
     "asmc": {
       "counts": {
-        "total": 1123,
-        "kalimantan": 554,
-        "sumatra": 228,
-        "p_malaysia": 0,
-        "sabah_sarawak": 6,
-        "pass_time": "2026-10-20T14:05:00+08:00"
+        "Nusa Tenggara": 33,
+        "Java": 48,
+        "Sulawesi": 188,
+        "East_Timor": 4,
+        "Kalimantan": 554,
+        "Sumatra": 228,
+        "Vietnam": 38,
+        "Cambodia": 5,
+        "Lao_PDR": 3,
+        "Thailand": 14,
+        "SabahSarawak": 6,
+        "Myanmar": 2,
+        "P_Malaysia": 0
       },
       "province_counts": {
-        "Java": {
-          "Jawa Timur": 35,
-          "Jawa Barat": 7,
-          "Banten": 2,
-          "Jawa Tengah": 4
-        },
-        "Sulawesi": {
-          "Sulawesi Tenggara": 42,
-          "Sulawesi Selatan": 54,
-          "Sulawesi Tengah": 91,
-          "Sulawesi Barat": 1
-        },
         "Kalimantan": {
-          "Kalimantan Selatan": 167,
+          "Kalimantan Selatan": 166,
           "Kalimantan Tengah": 227,
           "Kalimantan Timur": 110,
           "Kalimantan Barat": 50
@@ -1586,19 +1427,111 @@
         "Sumatra": {
           "Lampung": 32,
           "Bangka-Belitung": 30,
-          "Sumatera Selatan": 164,
+          "Sumatera Selatan": 163,
           "Jambi": 2
         },
         "SabahSarawak": {
           "Sarawak": 6
         }
       },
+      "province_counts_missing": false,
+      "point_count": 1123,
+      "omitted_point_count": 0,
+      "unassigned_province_count": 2,
+      "observation": "Dry weather persisted over the southern ASEAN region today, apart from the northern and central parts of Sumatra, parts of Peninsular Malaysia and the northern parts of Borneo where there were showers. Widespread hotspots were detected in Kalimantan and Sumatra, while few hotspots were detected in Sarawak. Moderate to dense smoke haze was observed over parts of Kalimantan, Sumatra, Sulawesi and Papua. Several quality stations in southern and eastern Kalimantan as well as southern and central Sumatra reported Unhealthy to Hazardous levels. The full extent of the hotspot situation over Kalimantan and Sumatra could not be determined due to obscuration by thick smoke haze and cloud cover, while the smoke haze situation over parts of the region could not be fully determined due to cloud cover. Wet weather was observed over the Mekong sub-region, except over the northeastern and central parts of the Mekong sub-region where it was relatively drier. Few hotspots were detected in the Mekong sub-region, but not significant smoke plumes were observed.",
+      "kml_filename": "Haze_Hotspots_20261020_164600.kml",
+      "kml_url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261020_164600.kml",
+      "kml_sha256": "221fdf0f8774c857f5673a3fe2536db75f828fcbfb589d7b7d827db656ed8c30",
+      "published_at": "2026-10-20T16:46:00+08:00",
+      "data_time": "2026-10-20T14:02:00+08:00",
+      "stale": true,
+      "minimum_counts": true,
       "points": [
+        {
+          "longitude": 124.3418045,
+          "latitude": -10.15202808,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.42784119,
+          "latitude": -10.09907818,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 123.93795013,
+          "latitude": -10.07294655,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 123.91591644,
+          "latitude": -9.98110485,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.1217804,
+          "latitude": -9.88183975,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.9304657,
+          "latitude": -8.33025932,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 116.07007599,
+          "latitude": -8.79504395,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.65278625,
+          "latitude": -8.34213829,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.63185883,
+          "latitude": -8.3115406,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 115.83509064,
+          "latitude": -8.76745129,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
         {
           "longitude": 114.10231018,
           "latitude": -8.41062641,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1606,7 +1539,7 @@
           "longitude": 114.09523773,
           "latitude": -8.41171646,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1614,7 +1547,7 @@
           "longitude": 114.10125732,
           "latitude": -8.40395069,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1622,7 +1555,7 @@
           "longitude": 114.0941925,
           "latitude": -8.40504456,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1630,7 +1563,7 @@
           "longitude": 114.18229675,
           "latitude": -8.06545925,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1638,7 +1571,7 @@
           "longitude": 114.2278595,
           "latitude": -8.03095245,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1646,7 +1579,7 @@
           "longitude": 114.22084808,
           "latitude": -8.0320425,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1654,7 +1587,7 @@
           "longitude": 114.22493744,
           "latitude": -8.01187515,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1662,7 +1595,7 @@
           "longitude": 114.24430847,
           "latitude": -7.99516773,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1670,7 +1603,7 @@
           "longitude": 112.05088806,
           "latitude": -8.3098135,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1678,7 +1611,7 @@
           "longitude": 114.19377136,
           "latitude": -7.94816208,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1686,7 +1619,7 @@
           "longitude": 112.92504883,
           "latitude": -8.11678219,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1694,7 +1627,7 @@
           "longitude": 112.9240799,
           "latitude": -8.11020279,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1702,7 +1635,7 @@
           "longitude": 114.42524719,
           "latitude": -7.82401323,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1710,7 +1643,7 @@
           "longitude": 111.92178345,
           "latitude": -8.13274002,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1718,7 +1651,7 @@
           "longitude": 111.68117523,
           "latitude": -8.09315968,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1726,7 +1659,7 @@
           "longitude": 112.61746216,
           "latitude": -7.79676437,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1734,7 +1667,7 @@
           "longitude": 112.61058807,
           "latitude": -7.79780674,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1742,7 +1675,7 @@
           "longitude": 112.60373688,
           "latitude": -7.79884243,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1750,7 +1683,7 @@
           "longitude": 112.5968399,
           "latitude": -7.79989004,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1758,7 +1691,7 @@
           "longitude": 112.63021088,
           "latitude": -7.78806257,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1766,7 +1699,7 @@
           "longitude": 112.62336731,
           "latitude": -7.78910065,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1774,7 +1707,7 @@
           "longitude": 112.61652374,
           "latitude": -7.7901392,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1782,7 +1715,7 @@
           "longitude": 112.59594727,
           "latitude": -7.79325771,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1790,7 +1723,7 @@
           "longitude": 112.58024597,
           "latitude": -7.78212023,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1798,7 +1731,7 @@
           "longitude": 121.80149078,
           "latitude": -4.48843813,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1806,7 +1739,7 @@
           "longitude": 122.2649765,
           "latitude": -4.38131237,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1814,7 +1747,7 @@
           "longitude": 122.29611969,
           "latitude": -4.3293767,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1822,7 +1755,7 @@
           "longitude": 122.28852844,
           "latitude": -4.33068228,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1830,7 +1763,7 @@
           "longitude": 107.78495026,
           "latitude": -6.62302494,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1838,7 +1771,7 @@
           "longitude": 121.64139557,
           "latitude": -4.35678864,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1846,7 +1779,7 @@
           "longitude": 121.64583588,
           "latitude": -4.34486103,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1854,7 +1787,7 @@
           "longitude": 122.2479248,
           "latitude": -4.23020744,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1862,7 +1795,7 @@
           "longitude": 122.24035645,
           "latitude": -4.2315073,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1870,7 +1803,7 @@
           "longitude": 107.64926147,
           "latitude": -6.53437281,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1878,7 +1811,7 @@
           "longitude": 107.64217377,
           "latitude": -6.53537703,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1886,7 +1819,7 @@
           "longitude": 122.23886108,
           "latitude": -4.19422197,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1894,7 +1827,7 @@
           "longitude": 105.75802612,
           "latitude": -6.72044373,
           "region": "Java",
-          "province": "Banten",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1902,7 +1835,7 @@
           "longitude": 121.97884369,
           "latitude": -4.15751362,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1910,7 +1843,7 @@
           "longitude": 121.97142792,
           "latitude": -4.15879011,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1918,7 +1851,7 @@
           "longitude": 121.80062103,
           "latitude": -3.97304153,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1926,7 +1859,7 @@
           "longitude": 121.79341888,
           "latitude": -3.97427201,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1934,7 +1867,7 @@
           "longitude": 106.6918869,
           "latitude": -6.20955086,
           "region": "Java",
-          "province": "Banten",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1942,7 +1875,7 @@
           "longitude": 121.43456268,
           "latitude": -3.50866508,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1950,7 +1883,7 @@
           "longitude": 121.43296051,
           "latitude": -3.49777222,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1958,7 +1891,7 @@
           "longitude": 119.77593231,
           "latitude": -3.69868922,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1966,7 +1899,7 @@
           "longitude": 122.0920639,
           "latitude": -3.12206197,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1974,7 +1907,7 @@
           "longitude": 122.06776428,
           "latitude": -3.07924533,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1982,7 +1915,7 @@
           "longitude": 121.66014862,
           "latitude": -3.14797544,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1990,7 +1923,7 @@
           "longitude": 121.65288544,
           "latitude": -3.14919639,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -1998,7 +1931,7 @@
           "longitude": 122.03972626,
           "latitude": -3.072294,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2006,7 +1939,7 @@
           "longitude": 122.03265381,
           "latitude": -3.07348704,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2014,15 +1947,231 @@
           "longitude": 122.01863861,
           "latitude": -3.07586765,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.12197113,
+          "latitude": -9.88228321,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 123.98243713,
+          "latitude": -9.87256718,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.12136841,
+          "latitude": -9.83426285,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.96217346,
+          "latitude": -9.35059929,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.5243454,
+          "latitude": -9.4095192,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.51435852,
+          "latitude": -9.4114399,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.54246521,
+          "latitude": -9.36866188,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.52326965,
+          "latitude": -9.40159893,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.54449463,
+          "latitude": -9.37276554,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:02:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.28498077,
+          "latitude": -9.28912449,
+          "region": "East_Timor",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.27567291,
+          "latitude": -9.29087353,
+          "region": "East_Timor",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 125.68792725,
+          "latitude": -8.96892452,
+          "region": "East_Timor",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 125.07926178,
+          "latitude": -9.07435799,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 125.68796539,
+          "latitude": -8.96928024,
+          "region": "East_Timor",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 125.07859039,
+          "latitude": -9.07056999,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.07518005,
+          "latitude": -8.50146198,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 124.07616425,
+          "latitude": -8.50407887,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 122.59148407,
+          "latitude": -8.59749508,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 123.36688995,
+          "latitude": -8.41965485,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 122.78359222,
+          "latitude": -8.11940193,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.82866669,
+          "latitude": -8.78076553,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 117.88066101,
+          "latitude": -8.93721867,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.77439117,
+          "latitude": -8.68137455,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.92435455,
+          "latitude": -8.59586811,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.90061951,
+          "latitude": -8.59992599,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.87944031,
+          "latitude": -8.37784386,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 118.93076324,
+          "latitude": -8.33425903,
+          "region": "Nusa Tenggara",
+          "province": null,
+          "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
         {
           "longitude": 111.32522583,
           "latitude": -7.94977856,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2030,7 +2179,7 @@
           "longitude": 111.77867889,
           "latitude": -7.85498047,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2038,7 +2187,7 @@
           "longitude": 111.77787781,
           "latitude": -7.84825182,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2046,7 +2195,7 @@
           "longitude": 111.77066803,
           "latitude": -7.84931898,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2054,7 +2203,7 @@
           "longitude": 112.61855316,
           "latitude": -7.71510696,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2062,7 +2211,7 @@
           "longitude": 111.77682495,
           "latitude": -7.84266567,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2070,7 +2219,7 @@
           "longitude": 111.75514221,
           "latitude": -7.84594345,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2078,7 +2227,7 @@
           "longitude": 111.72426605,
           "latitude": -7.78887129,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2086,7 +2235,7 @@
           "longitude": 111.68248749,
           "latitude": -7.62620592,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2094,7 +2243,7 @@
           "longitude": 111.18540192,
           "latitude": -7.64524508,
           "region": "Java",
-          "province": "Jawa Tengah",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2102,7 +2251,7 @@
           "longitude": 111.19232178,
           "latitude": -7.63037062,
           "region": "Java",
-          "province": "Jawa Tengah",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2110,7 +2259,7 @@
           "longitude": 111.19130707,
           "latitude": -7.62358475,
           "region": "Java",
-          "province": "Jawa Tengah",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2118,7 +2267,7 @@
           "longitude": 111.18344879,
           "latitude": -7.62472868,
           "region": "Java",
-          "province": "Jawa Tengah",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2126,7 +2275,7 @@
           "longitude": 122.66775513,
           "latitude": -5.62718725,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2134,7 +2283,7 @@
           "longitude": 122.66854095,
           "latitude": -5.63671684,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2142,7 +2291,7 @@
           "longitude": 111.32879639,
           "latitude": -7.39317274,
           "region": "Java",
-          "province": "Jawa Timur",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2150,7 +2299,7 @@
           "longitude": 108.33828735,
           "latitude": -7.77250767,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2158,7 +2307,7 @@
           "longitude": 123.04171753,
           "latitude": -5.36904001,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2166,7 +2315,7 @@
           "longitude": 123.04185486,
           "latitude": -5.37012672,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2174,7 +2323,7 @@
           "longitude": 107.59298706,
           "latitude": -7.53031778,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2182,7 +2331,7 @@
           "longitude": 107.42881012,
           "latitude": -7.44563293,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2190,7 +2339,7 @@
           "longitude": 106.57743073,
           "latitude": -7.39458036,
           "region": "Java",
-          "province": "Jawa Barat",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2198,7 +2347,7 @@
           "longitude": 119.57714844,
           "latitude": -5.39069748,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2206,7 +2355,7 @@
           "longitude": 119.69502258,
           "latitude": -5.10687637,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2214,7 +2363,7 @@
           "longitude": 121.7444458,
           "latitude": -4.65091133,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:03:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2222,7 +2371,7 @@
           "longitude": 121.76276398,
           "latitude": -4.55135679,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2230,7 +2379,7 @@
           "longitude": 121.7184906,
           "latitude": -4.5477109,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2238,7 +2387,7 @@
           "longitude": 121.70279694,
           "latitude": -4.53921843,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2246,7 +2395,7 @@
           "longitude": 121.69566345,
           "latitude": -4.54044151,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2254,7 +2403,7 @@
           "longitude": 122.03768158,
           "latitude": -3.06094384,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2262,7 +2411,7 @@
           "longitude": 122.01642609,
           "latitude": -3.06456137,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2270,7 +2419,7 @@
           "longitude": 121.91714478,
           "latitude": -3.06985712,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2278,7 +2427,7 @@
           "longitude": 121.90888977,
           "latitude": -3.07127762,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2286,7 +2435,7 @@
           "longitude": 121.90102386,
           "latitude": -3.07262301,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2294,7 +2443,7 @@
           "longitude": 122.03927612,
           "latitude": -3.07029128,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2302,7 +2451,7 @@
           "longitude": 122.03223419,
           "latitude": -3.07143569,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2310,7 +2459,7 @@
           "longitude": 122.01815033,
           "latitude": -3.07372475,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2318,7 +2467,7 @@
           "longitude": 122.03740692,
           "latitude": -3.05891132,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2326,7 +2475,7 @@
           "longitude": 121.91091156,
           "latitude": -3.07951832,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2334,7 +2483,7 @@
           "longitude": 121.90332794,
           "latitude": -3.08075428,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2342,7 +2491,7 @@
           "longitude": 121.90797424,
           "latitude": -3.0684042,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2350,7 +2499,7 @@
           "longitude": 121.89998627,
           "latitude": -3.0697124,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2358,7 +2507,7 @@
           "longitude": 121.51263428,
           "latitude": -3.04269481,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2366,7 +2515,7 @@
           "longitude": 121.50454712,
           "latitude": -3.04406905,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2382,7 +2531,7 @@
           "longitude": 121.57135773,
           "latitude": -3.038728,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2390,7 +2539,7 @@
           "longitude": 121.51132965,
           "latitude": -3.04841614,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2398,7 +2547,7 @@
           "longitude": 121.50396729,
           "latitude": -3.04961014,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2406,7 +2555,7 @@
           "longitude": 121.51063538,
           "latitude": -3.03724003,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2414,7 +2563,7 @@
           "longitude": 121.55331421,
           "latitude": -3.01899409,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2422,7 +2571,7 @@
           "longitude": 121.54598999,
           "latitude": -3.02019405,
           "region": "Sulawesi",
-          "province": "Sulawesi Tenggara",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2438,7 +2587,7 @@
           "longitude": 121.71450043,
           "latitude": -2.9583354,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2446,7 +2595,7 @@
           "longitude": 121.72906494,
           "latitude": -2.9214766,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2510,7 +2659,7 @@
           "longitude": 121.72603607,
           "latitude": -2.753196,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2550,7 +2699,7 @@
           "longitude": 121.71107483,
           "latitude": -2.6981411,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2558,7 +2707,7 @@
           "longitude": 121.70491791,
           "latitude": -2.69916749,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2582,7 +2731,7 @@
           "longitude": 119.7490921,
           "latitude": -2.99548841,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2590,7 +2739,7 @@
           "longitude": 119.7381897,
           "latitude": -2.99732709,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2630,7 +2779,7 @@
           "longitude": 121.70909119,
           "latitude": -2.69464016,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2638,7 +2787,7 @@
           "longitude": 121.70294952,
           "latitude": -2.69562984,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2654,7 +2803,7 @@
           "longitude": 119.74048615,
           "latitude": -2.99920177,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2710,7 +2859,7 @@
           "longitude": 121.21326447,
           "latitude": -2.55534792,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2718,7 +2867,7 @@
           "longitude": 121.20687103,
           "latitude": -2.55642104,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2734,7 +2883,7 @@
           "longitude": 119.94084167,
           "latitude": -2.74740481,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2742,7 +2891,7 @@
           "longitude": 121.21367645,
           "latitude": -2.55936933,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2750,7 +2899,7 @@
           "longitude": 121.20670319,
           "latitude": -2.56047964,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2758,7 +2907,7 @@
           "longitude": 120.93101501,
           "latitude": -2.59354091,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2774,7 +2923,7 @@
           "longitude": 119.94215393,
           "latitude": -2.74132299,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2798,7 +2947,7 @@
           "longitude": 119.79428864,
           "latitude": -2.73472595,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2942,7 +3091,7 @@
           "longitude": 121.66017914,
           "latitude": -2.81415319,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2950,7 +3099,7 @@
           "longitude": 121.65270233,
           "latitude": -2.81540847,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2958,7 +3107,7 @@
           "longitude": 121.64562988,
           "latitude": -2.81659698,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2966,7 +3115,7 @@
           "longitude": 121.64517975,
           "latitude": -2.80522752,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2974,7 +3123,7 @@
           "longitude": 121.63774872,
           "latitude": -2.80648899,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -2990,7 +3139,7 @@
           "longitude": 121.70898438,
           "latitude": -2.78294921,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3038,7 +3187,7 @@
           "longitude": 121.65193939,
           "latitude": -2.81112266,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3070,7 +3219,7 @@
           "longitude": 121.70887756,
           "latitude": -2.79046917,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3078,7 +3227,7 @@
           "longitude": 121.64433289,
           "latitude": -2.80091286,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3086,7 +3235,7 @@
           "longitude": 121.63665009,
           "latitude": -2.80215287,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3094,7 +3243,7 @@
           "longitude": 121.62998962,
           "latitude": -2.80323148,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3182,7 +3331,7 @@
           "longitude": 121.59520721,
           "latitude": -2.63298249,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3190,7 +3339,7 @@
           "longitude": 121.58833313,
           "latitude": -2.63412642,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3198,7 +3347,7 @@
           "longitude": 121.35959625,
           "latitude": -2.67209053,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3206,7 +3355,7 @@
           "longitude": 121.3526535,
           "latitude": -2.67323446,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3238,7 +3387,7 @@
           "longitude": 121.59268188,
           "latitude": -2.61053658,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3246,7 +3395,7 @@
           "longitude": 121.57792664,
           "latitude": -2.61301517,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3286,7 +3435,7 @@
           "longitude": 121.57650757,
           "latitude": -2.60865474,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3310,7 +3459,7 @@
           "longitude": 119.74942017,
           "latitude": -2.86991429,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3326,7 +3475,7 @@
           "longitude": 119.74671173,
           "latitude": -2.86031771,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3334,7 +3483,7 @@
           "longitude": 121.53799438,
           "latitude": -2.55786371,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3342,7 +3491,7 @@
           "longitude": 121.53063202,
           "latitude": -2.55906868,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3350,7 +3499,7 @@
           "longitude": 121.38320923,
           "latitude": -2.58325505,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3358,7 +3507,7 @@
           "longitude": 119.74565887,
           "latitude": -2.85044956,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3382,7 +3531,7 @@
           "longitude": 121.53495026,
           "latitude": -2.54696321,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3398,7 +3547,7 @@
           "longitude": 119.8592453,
           "latitude": -2.79151273,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3734,7 +3883,7 @@
           "longitude": 120.23589325,
           "latitude": -2.14560103,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3742,7 +3891,7 @@
           "longitude": 120.22953796,
           "latitude": -2.1466167,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3782,7 +3931,7 @@
           "longitude": 120.87857056,
           "latitude": -2.03173804,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3790,7 +3939,7 @@
           "longitude": 120.87179565,
           "latitude": -2.03283024,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3822,7 +3971,7 @@
           "longitude": 120.87706757,
           "latitude": -2.02097988,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3830,7 +3979,7 @@
           "longitude": 120.87029266,
           "latitude": -2.02207685,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3838,7 +3987,7 @@
           "longitude": 120.21897888,
           "latitude": -2.12732387,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -3958,7 +4107,7 @@
           "longitude": 121.53014374,
           "latitude": -1.86542284,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4102,7 +4251,7 @@
           "longitude": 119.51485443,
           "latitude": -2.47623563,
           "region": "Sulawesi",
-          "province": "Sulawesi Barat",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4214,7 +4363,7 @@
           "longitude": 119.94906616,
           "latitude": -2.2990942,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4222,7 +4371,7 @@
           "longitude": 119.94754791,
           "latitude": -2.28906846,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4230,7 +4379,7 @@
           "longitude": 119.96844482,
           "latitude": -2.27541709,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4278,7 +4427,7 @@
           "longitude": 120.28501129,
           "latitude": -2.1611166,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4302,7 +4451,7 @@
           "longitude": 120.28968811,
           "latitude": -2.16860366,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4310,7 +4459,7 @@
           "longitude": 120.28353882,
           "latitude": -2.16957211,
           "region": "Sulawesi",
-          "province": "Sulawesi Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4398,7 +4547,7 @@
           "longitude": 121.53088379,
           "latitude": -1.86895239,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4406,7 +4555,7 @@
           "longitude": 121.07095337,
           "latitude": -1.94498897,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4414,7 +4563,7 @@
           "longitude": 121.06401062,
           "latitude": -1.94612682,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4598,7 +4747,7 @@
           "longitude": 120.89365387,
           "latitude": -1.91082668,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -4950,7 +5099,7 @@
           "longitude": 116.36410522,
           "latitude": -2.50927067,
           "region": "Kalimantan",
-          "province": "Kalimantan Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5142,7 +5291,7 @@
           "longitude": 120.97966766,
           "latitude": -1.67095947,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5150,7 +5299,7 @@
           "longitude": 120.97354126,
           "latitude": -1.67194557,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5158,7 +5307,7 @@
           "longitude": 120.96741486,
           "latitude": -1.67293859,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5166,7 +5315,7 @@
           "longitude": 120.96136475,
           "latitude": -1.67391455,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5174,7 +5323,7 @@
           "longitude": 120.95543671,
           "latitude": -1.67487347,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5198,7 +5347,7 @@
           "longitude": 120.9852829,
           "latitude": -1.65892267,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5206,7 +5355,7 @@
           "longitude": 120.97860718,
           "latitude": -1.66001046,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5214,7 +5363,7 @@
           "longitude": 120.9724884,
           "latitude": -1.66100132,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5246,7 +5395,7 @@
           "longitude": 120.98486328,
           "latitude": -1.64785886,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -5483,6 +5632,78 @@
           "satellite": "NOAA20"
         },
         {
+          "longitude": 106.67638397,
+          "latitude": 10.66438103,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.66876984,
+          "latitude": 10.66316795,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.51493835,
+          "latitude": 10.81725121,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.50775146,
+          "latitude": 10.81612968,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.52104187,
+          "latitude": 10.82506275,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.22085571,
+          "latitude": 10.62748051,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.63121033,
+          "latitude": 10.70243645,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.30529785,
+          "latitude": 10.75831318,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.27826691,
+          "latitude": 10.91989517,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
           "longitude": 105.93092346,
           "latitude": 10.95088577,
           "region": "Cambodia",
@@ -5515,11 +5736,59 @@
           "satellite": "NOAA20"
         },
         {
+          "longitude": 106.20426178,
+          "latitude": 11.47321415,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.02807617,
+          "latitude": 11.73850822,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
           "longitude": 105.06737518,
           "latitude": 11.44648552,
           "region": "Cambodia",
           "province": null,
           "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.65349579,
+          "latitude": 12.52088356,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 108.54240417,
+          "latitude": 12.53835869,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.24028015,
+          "latitude": 14.76288319,
+          "region": "Lao_PDR",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.23939514,
+          "latitude": 14.76772976,
+          "region": "Lao_PDR",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
           "satellite": "NOAA20"
         },
         {
@@ -5550,6 +5819,30 @@
           "longitude": 100.79320526,
           "latitude": 14.92520332,
           "region": "Thailand",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.18967438,
+          "latitude": 16.27077866,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.38165283,
+          "latitude": 16.43601608,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.23509216,
+          "latitude": 16.6923275,
+          "region": "Vietnam",
           "province": null,
           "time": "2026-10-20T14:10:00+08:00",
           "satellite": "NOAA20"
@@ -6046,7 +6339,7 @@
           "longitude": 120.97764587,
           "latitude": -1.64903688,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6054,7 +6347,7 @@
           "longitude": 120.97131348,
           "latitude": -1.65007806,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6078,7 +6371,7 @@
           "longitude": 121.38807678,
           "latitude": -1.57043374,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6086,7 +6379,7 @@
           "longitude": 121.14476776,
           "latitude": -1.61042118,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6094,7 +6387,7 @@
           "longitude": 121.13657379,
           "latitude": -1.61176753,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6102,7 +6395,7 @@
           "longitude": 121.12579346,
           "latitude": -1.61354911,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6110,7 +6403,7 @@
           "longitude": 121.11630249,
           "latitude": -1.61511064,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6142,7 +6435,7 @@
           "longitude": 121.12340546,
           "latitude": -1.60269797,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6150,7 +6443,7 @@
           "longitude": 121.1151123,
           "latitude": -1.60406601,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6190,7 +6483,7 @@
           "longitude": 121.64466858,
           "latitude": -1.50487375,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6254,7 +6547,7 @@
           "longitude": 121.38747406,
           "latitude": -1.56629491,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6262,7 +6555,7 @@
           "longitude": 121.12326813,
           "latitude": -1.60778105,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6270,7 +6563,7 @@
           "longitude": 121.11474609,
           "latitude": -1.60911942,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6294,7 +6587,7 @@
           "longitude": 121.64412689,
           "latitude": -1.50265253,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6302,7 +6595,7 @@
           "longitude": 121.12814331,
           "latitude": -1.58452475,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6334,7 +6627,7 @@
           "longitude": 121.12623596,
           "latitude": -1.57357526,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6350,7 +6643,7 @@
           "longitude": 121.66070557,
           "latitude": -1.47668123,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6366,7 +6659,7 @@
           "longitude": 121.65940857,
           "latitude": -1.46520758,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6374,7 +6667,7 @@
           "longitude": 121.65330505,
           "latitude": -1.4661907,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6382,7 +6675,7 @@
           "longitude": 121.1708374,
           "latitude": -1.54388833,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6390,7 +6683,7 @@
           "longitude": 121.16187286,
           "latitude": -1.54533672,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6414,7 +6707,7 @@
           "longitude": 122.00901031,
           "latitude": -1.39685583,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6462,7 +6755,7 @@
           "longitude": 122.00652313,
           "latitude": -1.38529909,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6470,7 +6763,7 @@
           "longitude": 122.00109863,
           "latitude": -1.3861835,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6478,7 +6771,7 @@
           "longitude": 121.9938736,
           "latitude": -1.38735378,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6494,7 +6787,7 @@
           "longitude": 122.05511475,
           "latitude": -1.35431421,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6502,7 +6795,7 @@
           "longitude": 122.04960632,
           "latitude": -1.35519123,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6510,7 +6803,7 @@
           "longitude": 122.04450989,
           "latitude": -1.35599136,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6518,7 +6811,7 @@
           "longitude": 120.45497894,
           "latitude": -1.60509372,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6526,7 +6819,7 @@
           "longitude": 120.44290161,
           "latitude": -1.59625006,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6534,7 +6827,7 @@
           "longitude": 120.43692017,
           "latitude": -1.59719908,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6558,7 +6851,7 @@
           "longitude": 122.00601959,
           "latitude": -1.3381176,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6566,7 +6859,7 @@
           "longitude": 120.46833801,
           "latitude": -1.58150506,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6574,7 +6867,7 @@
           "longitude": 120.43093109,
           "latitude": -1.58741045,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6598,7 +6891,7 @@
           "longitude": 120.47231293,
           "latitude": -1.5701164,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6606,7 +6899,7 @@
           "longitude": 120.46620178,
           "latitude": -1.57107842,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6614,7 +6907,7 @@
           "longitude": 120.3704071,
           "latitude": -1.58627808,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6670,7 +6963,7 @@
           "longitude": 120.46553802,
           "latitude": -1.53890812,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6678,7 +6971,7 @@
           "longitude": 120.45505524,
           "latitude": -1.54059565,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6686,7 +6979,7 @@
           "longitude": 120.44981384,
           "latitude": -1.5414319,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6726,7 +7019,7 @@
           "longitude": 122.06163025,
           "latitude": -1.36432278,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6734,7 +7027,7 @@
           "longitude": 122.05714417,
           "latitude": -1.3650496,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6742,7 +7035,7 @@
           "longitude": 122.05276489,
           "latitude": -1.36576617,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6750,7 +7043,7 @@
           "longitude": 121.65636444,
           "latitude": -1.43066144,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6758,7 +7051,7 @@
           "longitude": 121.64848328,
           "latitude": -1.43195152,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6790,7 +7083,7 @@
           "longitude": 122.06796265,
           "latitude": -1.35127318,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6798,7 +7091,7 @@
           "longitude": 122.06024933,
           "latitude": -1.35254502,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6806,7 +7099,7 @@
           "longitude": 122.05453491,
           "latitude": -1.35347748,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6814,7 +7107,7 @@
           "longitude": 122.04891968,
           "latitude": -1.35440183,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6822,7 +7115,7 @@
           "longitude": 122.0437851,
           "latitude": -1.3552388,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6838,7 +7131,7 @@
           "longitude": 120.45624542,
           "latitude": -1.60500395,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6846,7 +7139,7 @@
           "longitude": 120.44986725,
           "latitude": -1.60604703,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6894,7 +7187,7 @@
           "longitude": 120.44406128,
           "latitude": -1.59624875,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6902,7 +7195,7 @@
           "longitude": 120.43809509,
           "latitude": -1.5972271,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -6950,7 +7243,7 @@
           "longitude": 122.06075287,
           "latitude": -1.35342765,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -7030,7 +7323,7 @@
           "longitude": 121.25534058,
           "latitude": -1.36605167,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -7038,7 +7331,7 @@
           "longitude": 121.24787903,
           "latitude": -1.36727643,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -7166,7 +7459,7 @@
           "longitude": 121.24760437,
           "latitude": -1.35105062,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -7174,7 +7467,7 @@
           "longitude": 121.23747253,
           "latitude": -1.35265028,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -8390,7 +8683,7 @@
           "longitude": 120.33320618,
           "latitude": -1.47395658,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -8422,7 +8715,7 @@
           "longitude": 120.41043091,
           "latitude": -1.44018781,
           "region": "Sulawesi",
-          "province": "Sulawesi Tengah",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -9534,7 +9827,7 @@
           "longitude": 104.71677399,
           "latitude": -2.50511646,
           "region": "Sumatra",
-          "province": "Sumatera Selatan",
+          "province": null,
           "time": "2026-10-20T14:05:00+08:00",
           "satellite": "NOAA20"
         },
@@ -9883,6 +10176,102 @@
           "satellite": "NOAA20"
         },
         {
+          "longitude": 106.11557007,
+          "latitude": 9.42888451,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.8710022,
+          "latitude": 9.74459171,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.46278381,
+          "latitude": 9.77893543,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.12782288,
+          "latitude": 9.87823105,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.28713989,
+          "latitude": 10.26880741,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.49491882,
+          "latitude": 10.3131876,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.30454254,
+          "latitude": 10.46042824,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.36506653,
+          "latitude": 10.48451805,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.35723877,
+          "latitude": 10.48325825,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.55185699,
+          "latitude": 10.68002224,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 107.67660522,
+          "latitude": 10.72689629,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.72109985,
+          "latitude": 10.62927723,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:09:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
           "longitude": 100.7131958,
           "latitude": 16.31752777,
           "region": "Thailand",
@@ -9931,9 +10320,97 @@
           "satellite": "NOAA20"
         },
         {
+          "longitude": 106.13158417,
+          "latitude": 18.23340607,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.7771225,
+          "latitude": 18.18373299,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.3166275,
+          "latitude": 17.95697784,
+          "region": "Lao_PDR",
+          "province": null,
+          "time": "2026-10-20T14:10:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.36633301,
+          "latitude": 19.07124519,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.45098114,
+          "latitude": 19.15925407,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.44355774,
+          "latitude": 19.1580658,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 105.50157928,
+          "latitude": 19.90197372,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 104.83692932,
+          "latitude": 21.22442245,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.31746674,
+          "latitude": 20.97076416,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 103.30932617,
+          "latitude": 20.96936417,
+          "region": "Vietnam",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
           "longitude": 99.98748779,
           "latitude": 20.42430115,
           "region": "Thailand",
+          "province": null,
+          "time": "2026-10-20T14:12:00+08:00",
+          "satellite": "NOAA20"
+        },
+        {
+          "longitude": 106.2131958,
+          "latitude": 22.6368084,
+          "region": "Vietnam",
           "province": null,
           "time": "2026-10-20T14:12:00+08:00",
           "satellite": "NOAA20"
@@ -9954,27 +10431,45 @@
           "time": "2026-10-20T14:12:00+08:00",
           "satellite": "NOAA20"
         }
-      ],
-      "point_count": 1045,
-      "omitted_point_count": 78,
-      "province_assignment_scope": [
-        "Kalimantan",
-        "Sumatra",
-        "P_Malaysia",
-        "SabahSarawak"
-      ],
-      "unassigned_province_count": 0,
-      "observation": "Dry weather persisted over the southern ASEAN region today, apart from the northern and central parts of Sumatra, parts of Peninsular Malaysia and the northern parts of Borneo where there were showers. Widespread hotspots were detected in Kalimantan and Sumatra, while few hotspots were detected in Sarawak. Moderate to dense smoke haze was observed over parts of Kalimantan, Sumatra, Sulawesi and Papua. Several quality stations in southern and eastern Kalimantan as well as southern and central Sumatra reported Unhealthy to Hazardous levels. The full extent of the hotspot situation over Kalimantan and Sumatra could not be determined due to obscuration by thick smoke haze and cloud cover, while the smoke haze situation over parts of the region could not be fully determined due to cloud cover. Wet weather was observed over the Mekong sub-region, except over the northeastern and central parts of the Mekong sub-region where it was relatively drier. Few hotspots were detected in the Mekong sub-region, but not significant smoke plumes were observed.",
-      "kml_filename": "Haze_Hotspots_20261020_164600.kml",
-      "kml_url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261020_164600.kml",
-      "kml_sha256": "221fdf0f8774c857f5673a3fe2536db75f828fcbfb589d7b7d827db656ed8c30",
-      "published_at": "2026-10-20T16:46:00+08:00",
-      "stale": true,
-      "minimum_counts": true
+      ]
     },
     "satellite": {
       "date": "2026-10-19",
       "mode": "live",
+      "bounds": {
+        "south": -7,
+        "west": 94,
+        "north": 8,
+        "east": 120
+      },
+      "crs": "EPSG:4326",
+      "composition": {
+        "difference_threshold": 60,
+        "dilation_pixels": 5,
+        "red_minimum": 120,
+        "red_dominance_margin": 40,
+        "fire_rgb": [
+          232,
+          28,
+          28
+        ],
+        "source_crop": [
+          0,
+          180,
+          2080,
+          980
+        ],
+        "validation": {
+          "version": 1,
+          "min_scene_std": 10,
+          "max_dark_fraction": 0.2,
+          "max_changed_fraction": 0.02,
+          "max_unexplained_fraction": 0.001,
+          "max_mean_absolute_difference": 3
+        }
+      },
+      "older_than_expected": true,
+      "fire_pixels_visible": 9867,
       "base": {
         "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
         "sha256": "5f147a18f15d2079fa65cdcfbcd81ab742f45f8bf2f7e5d607b04282f95b0705",
@@ -9988,80 +10483,49 @@
         "media_type": "image/jpeg",
         "width": 2080,
         "height": 1200
-      },
-      "bounds": {
-        "south": -7,
-        "west": 94,
-        "north": 8,
-        "east": 120
-      },
-      "crs": "EPSG:4326",
-      "composition": {
-        "difference_threshold": 60,
-        "dilation_pixels": 5,
-        "fire_rgb": [
-          232,
-          28,
-          28
-        ],
-        "red_minimum": 120,
-        "red_dominance_margin": 40,
-        "validation": {
-          "version": 1,
-          "min_scene_std": 10,
-          "max_dark_fraction": 0.2,
-          "max_changed_fraction": 0.02,
-          "max_unexplained_fraction": 0.001,
-          "max_mean_absolute_difference": 3
-        },
-        "source_crop": [
-          0,
-          180,
-          2080,
-          980
-        ],
-        "graticule_degrees": 5
-      },
-      "older_than_expected": true,
-      "fire_pixels_visible": 31406,
-      "missing_imagery": false,
-      "requires_exact_hash_match": true
+      }
     },
-    "missing": [
-      "asmc_points"
+    "warning_flags": [
+      "Hotspot counts are detections, not a count of fires; cloud and haze can obscure detections.",
+      "ASMC bulletin is dated 20 Oct 2026 16:46 MYT; not current-hour observations.",
+      "2 hotspot points could not be assigned uniquely to a province.",
+      "OLDER IMAGE: NASA image 2026-10-19; newer validated imagery unavailable.",
+      "Thermal marks are satellite detections, not proof of local smoke or absence of fires."
     ],
-    "complete": false,
+    "missing": [],
+    "complete": true,
     "external_assets_required": [
-      "bundled renderer fonts and Natural Earth geometry",
-      "hash-verified NASA base and overlay images"
+      "system DejaVu fonts",
+      "hash-verified Natural Earth geometry",
+      "hash-verified satellite pair when available"
     ]
   },
   "images": {
     "a4": {
-      "filename": "jerebu-a4-2026-10-20-2200.png",
-      "sha256": "0e902b2770f4687c8cadbcbaa6d1b8efdfe6901bf027c952eeabd359ef8874ad",
-      "bytes": 542470,
+      "filename": "a4-2026-10-21-1000.png",
+      "sha256": "503a7299f321794fbc70e6afaff9c0db748c9ce5cffe02ff73f42b27911a1d47",
+      "bytes": 1419955,
       "width": 2480,
       "height": 3508
     },
     "pj_now": {
-      "filename": "01-pj-now.png",
-      "sha256": "da281201be5c0d7ca036a2f4216c119146d54cf5af986baeb1efd86c7f20ba57",
-      "bytes": 133790,
+      "filename": "pj-now-2026-10-21-1000.png",
+      "sha256": "053414aab868bf9d6e535256268f6b3e1397db8c02c635de2078452c3324b363",
+      "bytes": 111038,
       "width": 1080,
       "height": 1600
     },
     "local_trend": {
-      "filename": "02-local-trend.png",
-      "sha256": "da8ee0be26f307d6f16e87bdd4fc4653f751ef2e67015bab94dd737409f4e6ee",
-      "bytes": 195348,
+      "filename": "local-trend-2026-10-21-1000.png",
+      "sha256": "85943953e17e77ebcc8b040ede33e12967eb6d6bc3341a603d1e8e7012ea868b",
+      "bytes": 143902,
       "width": 1080,
       "height": 1600
     },
     "regional_context": {
-      "filename": "03-regional-context.png",
-      "sha256": "676ab9078af5f3db654f2506e9c10b7e36370c795d2de059246b6d114533b680",
-      "bytes": 750335,
+      "filename": "regional-context-2026-10-21-1000.png",
+      "sha256": "c4baeed8d0f124ae5c162e14070c4a81de5e9cfbc693c9d640f6509c9b54f0e2",
+      "bytes": 817951,
       "width": 1080,
       "height": 1600
     }
