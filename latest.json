@@ -4,7 +4,7 @@
   "scale": "Malaysia DOE API",
   "scale_note": "Malaysia API is not US AQI.",
   "reading_time": "2026-10-21T10:00:00+08:00",
-  "generated_at": "2026-10-21T10:24:02+08:00",
+  "generated_at": "2026-10-21T11:01:10+08:00",
   "mode": "live",
   "pj": {
     "id": "CA19B",
@@ -1209,106 +1209,107 @@
     }
   },
   "hotspots": {
-    "Nusa Tenggara": 33,
-    "Java": 48,
-    "Sulawesi": 188,
-    "East_Timor": 4,
-    "Kalimantan": 554,
-    "Sumatra": 228,
-    "Vietnam": 38,
-    "Cambodia": 5,
-    "Lao_PDR": 3,
-    "Thailand": 14,
-    "SabahSarawak": 6,
-    "Myanmar": 2,
-    "P_Malaysia": 0
+    "kalimantan": 554,
+    "sumatra": 228,
+    "p_malaysia": 0,
+    "sabah_sarawak": 6,
+    "total": 1123,
+    "pass_time": "2026-10-20T14:02:00+08:00"
   },
   "satellite_date": "2026-10-19",
-  "freshness": {},
+  "freshness": {
+    "as_of": "2026-10-21T11:01:10+08:00",
+    "reading_age_hours": 1.019444,
+    "reading_stale": false,
+    "threshold_hours": 2,
+    "hotspots_age_hours": 20.986111,
+    "hotspots_stale": true,
+    "satellite_older_than_expected": true
+  },
   "degraded_sources": [],
   "provenance": [
     {
       "source": "DOE-map",
       "url": "https://eqms.doe.gov.my/api3/publicportalapims/mapcaqm",
-      "fetched_at": "2026-10-21T10:24:08+08:00",
+      "fetched_at": "2026-10-21T11:01:20+08:00",
       "sha256": "0447f1fc9f6e1971fb69aa01df558b51b7ef2c2b176fb00b72a70d479c664fed"
     },
     {
       "source": "DOE-trend-0",
       "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-21T10:00:00",
-      "fetched_at": "2026-10-21T10:24:14+08:00",
+      "fetched_at": "2026-10-21T11:01:23+08:00",
       "sha256": "a8bb2ea5aaa0345274221a94fbf51211bc923c2dc5d216f9568a95a7d4a69b6a"
     },
     {
       "source": "DOE-trend-24",
       "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-20T10:00:00",
-      "fetched_at": "2026-10-21T10:24:19+08:00",
+      "fetched_at": "2026-10-21T11:01:27+08:00",
       "sha256": "e839441a52e3560eca966c0fd84835e061608512162a0f8ce24fffd505e4f000"
     },
     {
       "source": "DOE-trend-48",
       "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-19T10:00:00",
-      "fetched_at": "2026-10-21T10:24:24+08:00",
+      "fetched_at": "2026-10-21T11:01:30+08:00",
       "sha256": "b4788939682fd7a973d5663e32c4689b6bc9e6e13db92a2fa1e29964e44c3be7"
     },
     {
       "source": "metmalaysia-forecast",
       "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
-      "fetched_at": "2026-10-21T10:24:28+08:00",
+      "fetched_at": "2026-10-21T11:01:36+08:00",
       "sha256": "67b32fe699df81d9e4aaa3bf768c061aed8b9336a20048026d0f6aa56d0ad3b2"
     },
     {
       "source": "asmc-home",
       "url": "https://asmc.asean.org/home/",
-      "fetched_at": "2026-10-21T10:24:42+08:00",
-      "sha256": "3fe05733f23c9654c9ecfd0a5e51a6025e83b2bbe7a77f822dda2ab27b95a6ef"
+      "fetched_at": "2026-10-21T11:01:44+08:00",
+      "sha256": "9cb9df72f5aeb574edc857b8afe5eac8edc08a570c6e8e0f6a829396b0999d1f"
     },
     {
       "source": "asmc-hotspots",
       "url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261020_164600.kml",
-      "fetched_at": "2026-10-21T10:24:48+08:00",
+      "fetched_at": "2026-10-21T11:01:51+08:00",
       "sha256": "221fdf0f8774c857f5673a3fe2536db75f828fcbfb589d7b7d827db656ed8c30"
     },
     {
       "source": "naturalearth-admin1",
       "url": "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_1_states_provinces.zip",
-      "fetched_at": "2026-10-21T10:24:55+08:00",
+      "fetched_at": "2026-10-21T11:01:56+08:00",
       "sha256": "efc59726337323058f9446210adc96673179cd344e053666ee3d28cb58ba2b05"
     },
     {
       "source": "nasa-2026-10-21-base",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-21&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:00+08:00",
+      "fetched_at": "2026-10-21T11:02:00+08:00",
       "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
     },
     {
       "source": "nasa-2026-10-21-overlay",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-21&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:04+08:00",
+      "fetched_at": "2026-10-21T11:02:20+08:00",
       "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
     },
     {
       "source": "nasa-2026-10-20-base",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-20&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:09+08:00",
+      "fetched_at": "2026-10-21T11:02:26+08:00",
       "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
     },
     {
       "source": "nasa-2026-10-20-overlay",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-20&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:12+08:00",
+      "fetched_at": "2026-10-21T11:02:30+08:00",
       "sha256": "3866930d95fa872ee9bee96ecb21f95b89e177fa766a59013f4e988dfa3d2437"
     },
     {
       "source": "nasa-2026-10-19-base",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:17+08:00",
+      "fetched_at": "2026-10-21T11:02:36+08:00",
       "sha256": "5f147a18f15d2079fa65cdcfbcd81ab742f45f8bf2f7e5d607b04282f95b0705"
     },
     {
       "source": "nasa-2026-10-19-overlay",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-19&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-21T10:25:21+08:00",
+      "fetched_at": "2026-10-21T11:02:39+08:00",
       "sha256": "fa2457e709e7def89d6cc1dfc90801cc5c5745cd4e5529193afc413c0e7b0d34"
     }
   ],
@@ -1379,7 +1380,7 @@
     "forecast": {
       "location_id": "Tn076",
       "location_name": "Petaling Jaya",
-      "clock_time": "2026-10-21T10:24:02+08:00",
+      "clock_time": "2026-10-21T11:01:10+08:00",
       "tonight": false,
       "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
       "days": [
