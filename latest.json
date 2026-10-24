@@ -3,8 +3,8 @@
   "timezone": "Asia/Kuala_Lumpur",
   "scale": "Malaysia DOE API",
   "scale_note": "Malaysia API is not US AQI.",
-  "reading_time": "2026-10-24T07:00:00+08:00",
-  "generated_at": "2026-10-24T07:18:11+08:00",
+  "reading_time": "2026-10-24T08:00:00+08:00",
+  "generated_at": "2026-10-24T08:25:03+08:00",
   "mode": "live",
   "pj": {
     "id": "CA19B",
@@ -12,10 +12,10 @@
     "state": "selangor",
     "latitude": 3.130875,
     "longitude": 101.60868,
-    "api": 128,
+    "api": 133,
     "band": "Unhealthy",
-    "time": "2026-10-24T07:00:00+08:00",
-    "previous_3h_api": 116,
+    "time": "2026-10-24T08:00:00+08:00",
+    "previous_3h_api": 113,
     "yesterday_same_hour_api": 157
   },
   "stations": [
@@ -25,9 +25,9 @@
       "state": "perlis",
       "latitude": 6.429928,
       "longitude": 100.210937,
-      "api": 51,
-      "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "api": 48,
+      "band": "Good",
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA02K",
@@ -37,7 +37,7 @@
       "longitude": 99.858461,
       "api": 50,
       "band": "Good",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA03K",
@@ -45,9 +45,9 @@
       "state": "kedah",
       "latitude": 6.13713,
       "longitude": 100.346857,
-      "api": 58,
+      "api": 59,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA04K",
@@ -55,9 +55,9 @@
       "state": "kedah",
       "latitude": 5.629709,
       "longitude": 100.46771,
-      "api": 61,
+      "api": 60,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA05K",
@@ -67,7 +67,7 @@
       "longitude": 100.589653,
       "api": 63,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA06P",
@@ -77,7 +77,7 @@
       "longitude": 100.403976,
       "api": 65,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA07P",
@@ -87,7 +87,7 @@
       "longitude": 100.443457,
       "api": 77,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA08P",
@@ -97,7 +97,7 @@
       "longitude": 100.30794,
       "api": 66,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA09P",
@@ -107,7 +107,7 @@
       "longitude": 100.216642,
       "api": 59,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA10A",
@@ -117,7 +117,7 @@
       "longitude": 100.679133,
       "api": 66,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA11A",
@@ -125,9 +125,9 @@
       "state": "perak",
       "latitude": 4.629462,
       "longitude": 101.116669,
-      "api": 80,
+      "api": 81,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA12A",
@@ -135,9 +135,9 @@
       "state": "perak",
       "latitude": 4.553367,
       "longitude": 101.080261,
-      "api": 73,
+      "api": 74,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA13A",
@@ -145,9 +145,9 @@
       "state": "perak",
       "latitude": 4.200385,
       "longitude": 100.663346,
-      "api": 96,
+      "api": 94,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA14A",
@@ -155,9 +155,9 @@
       "state": "perak",
       "latitude": 3.687721,
       "longitude": 101.524446,
-      "api": 79,
+      "api": 80,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA15W",
@@ -167,7 +167,7 @@
       "longitude": 101.682218,
       "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA16W",
@@ -175,9 +175,9 @@
       "state": "wp-kuala-lumpur",
       "latitude": 3.10626,
       "longitude": 101.717931,
-      "api": 150,
+      "api": 152,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA17W",
@@ -187,7 +187,7 @@
       "longitude": 101.690946,
       "api": 151,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA18B",
@@ -197,7 +197,7 @@
       "longitude": 101.256249,
       "api": 76,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA19B",
@@ -205,9 +205,9 @@
       "state": "selangor",
       "latitude": 3.130875,
       "longitude": 101.60868,
-      "api": 128,
+      "api": 133,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA20B",
@@ -217,7 +217,7 @@
       "longitude": 101.556192,
       "api": 96,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA21B",
@@ -225,9 +225,9 @@
       "state": "selangor",
       "latitude": 3.014899,
       "longitude": 101.413136,
-      "api": 133,
+      "api": 121,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA22B",
@@ -237,7 +237,7 @@
       "longitude": 101.623043,
       "api": 98,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA23N",
@@ -247,7 +247,7 @@
       "longitude": 101.81153,
       "api": 167,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA24N",
@@ -255,9 +255,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.723441,
       "longitude": 101.968395,
-      "api": 168,
+      "api": 169,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA25N",
@@ -265,9 +265,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.441332,
       "longitude": 101.866829,
-      "api": 151,
+      "api": 152,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA26M",
@@ -275,9 +275,9 @@
       "state": "melaka",
       "latitude": 2.37091,
       "longitude": 102.223199,
-      "api": 155,
+      "api": 156,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA27M",
@@ -285,9 +285,9 @@
       "state": "melaka",
       "latitude": 2.268461,
       "longitude": 102.193636,
-      "api": 160,
+      "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA28M",
@@ -295,9 +295,9 @@
       "state": "melaka",
       "latitude": 2.190929,
       "longitude": 102.257066,
-      "api": 162,
+      "api": 163,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA29J",
@@ -307,7 +307,7 @@
       "longitude": 102.863487,
       "api": 155,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA31J",
@@ -317,7 +317,7 @@
       "longitude": 102.86584,
       "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA32J",
@@ -325,9 +325,9 @@
       "state": "johor",
       "latitude": 2.036936,
       "longitude": 103.312179,
-      "api": 157,
+      "api": 158,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA33J",
@@ -335,9 +335,9 @@
       "state": "johor",
       "latitude": 1.494616,
       "longitude": 103.735922,
-      "api": 167,
+      "api": 168,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA34J",
@@ -345,9 +345,9 @@
       "state": "johor",
       "latitude": 1.470121,
       "longitude": 103.89366,
-      "api": 161,
+      "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA35J",
@@ -355,9 +355,9 @@
       "state": "johor",
       "latitude": 1.389999,
       "longitude": 104.14956,
-      "api": 155,
+      "api": 156,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA36J",
@@ -365,9 +365,9 @@
       "state": "johor",
       "latitude": 1.564027,
       "longitude": 104.22533,
-      "api": 96,
+      "api": 98,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA37C",
@@ -375,9 +375,9 @@
       "state": "pahang",
       "latitude": 2.927699,
       "longitude": 103.419193,
-      "api": 86,
+      "api": 88,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA38C",
@@ -385,9 +385,9 @@
       "state": "pahang",
       "latitude": 3.470806,
       "longitude": 102.378663,
-      "api": 63,
+      "api": 64,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA39C",
@@ -395,9 +395,9 @@
       "state": "pahang",
       "latitude": 3.948312,
       "longitude": 102.366683,
-      "api": 65,
+      "api": 64,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA40C",
@@ -405,9 +405,9 @@
       "state": "pahang",
       "latitude": 3.819228,
       "longitude": 103.296553,
-      "api": 59,
+      "api": 60,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA41C",
@@ -417,7 +417,7 @@
       "longitude": 103.382182,
       "api": 61,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA42T",
@@ -427,7 +427,7 @@
       "longitude": 103.425839,
       "api": 59,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA43T",
@@ -437,7 +437,7 @@
       "longitude": 103.434793,
       "api": 85,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA44T",
@@ -445,9 +445,9 @@
       "state": "terengganu",
       "latitude": 5.308144,
       "longitude": 103.120435,
-      "api": 45,
+      "api": 44,
       "band": "Good",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA45T",
@@ -455,9 +455,9 @@
       "state": "terengganu",
       "latitude": 5.743342,
       "longitude": 102.513478,
-      "api": 26,
+      "api": 25,
       "band": "Good",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA46D",
@@ -465,9 +465,9 @@
       "state": "kelantan",
       "latitude": 5.811251,
       "longitude": 102.134517,
-      "api": 43,
+      "api": 39,
       "band": "Good",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA47D",
@@ -475,9 +475,9 @@
       "state": "kelantan",
       "latitude": 6.147439,
       "longitude": 102.249233,
-      "api": 49,
+      "api": 45,
       "band": "Good",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA48S",
@@ -487,7 +487,7 @@
       "longitude": 117.935858,
       "api": 71,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA49S",
@@ -497,7 +497,7 @@
       "longitude": 118.091062,
       "api": 60,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA50S",
@@ -507,7 +507,7 @@
       "longitude": 116.056388,
       "api": 71,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA51S",
@@ -515,9 +515,9 @@
       "state": "sabah",
       "latitude": 5.597719,
       "longitude": 115.88833,
-      "api": 69,
+      "api": 70,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA52S",
@@ -525,9 +525,9 @@
       "state": "sabah",
       "latitude": 5.339426,
       "longitude": 116.163683,
-      "api": 90,
+      "api": 92,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA53L",
@@ -537,7 +537,7 @@
       "longitude": 115.232276,
       "api": 83,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA54Q",
@@ -545,9 +545,9 @@
       "state": "sarawak",
       "latitude": 4.758824,
       "longitude": 115.01366,
-      "api": 74,
+      "api": 75,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA55Q",
@@ -555,9 +555,9 @@
       "state": "sarawak",
       "latitude": 4.49474,
       "longitude": 114.043375,
-      "api": 70,
+      "api": 71,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA56Q",
@@ -567,7 +567,7 @@
       "longitude": 114.012368,
       "api": 75,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA57Q",
@@ -575,9 +575,9 @@
       "state": "sarawak",
       "latitude": 3.532722,
       "longitude": 113.325812,
-      "api": 87,
+      "api": 86,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA58Q",
@@ -585,9 +585,9 @@
       "state": "sarawak",
       "latitude": 3.177155,
       "longitude": 113.041171,
-      "api": 88,
+      "api": 87,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA59Q",
@@ -595,9 +595,9 @@
       "state": "sarawak",
       "latitude": 2.870617,
       "longitude": 112.019994,
-      "api": 73,
+      "api": 74,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA60Q",
@@ -605,9 +605,9 @@
       "state": "sarawak",
       "latitude": 2.014548,
       "longitude": 112.927323,
-      "api": 148,
+      "api": 151,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA61Q",
@@ -617,7 +617,7 @@
       "longitude": 111.831933,
       "api": 85,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA62Q",
@@ -625,9 +625,9 @@
       "state": "sarawak",
       "latitude": 2.132909,
       "longitude": 111.522885,
-      "api": 77,
+      "api": 76,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA63Q",
@@ -637,7 +637,7 @@
       "longitude": 111.464871,
       "api": 152,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA64Q",
@@ -645,9 +645,9 @@
       "state": "sarawak",
       "latitude": 1.454806,
       "longitude": 110.491506,
-      "api": 81,
+      "api": 83,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA65Q",
@@ -655,9 +655,9 @@
       "state": "sarawak",
       "latitude": 1.562167,
       "longitude": 110.388916,
-      "api": 92,
+      "api": 93,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA66J",
@@ -667,7 +667,7 @@
       "longitude": 102.571313,
       "api": 161,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "MCAQM001",
@@ -675,9 +675,9 @@
       "state": "selangor",
       "latitude": 2.978644,
       "longitude": 101.490107,
-      "api": 100,
+      "api": 99,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "MCAQM002",
@@ -685,9 +685,9 @@
       "state": "sarawak",
       "latitude": 1.17247,
       "longitude": 110.56807,
-      "api": 152,
+      "api": 153,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "MCAQM003",
@@ -695,16 +695,16 @@
       "state": "sabah",
       "latitude": 6.097122,
       "longitude": 116.166392,
-      "api": 71,
+      "api": 72,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     }
   ],
   "peninsula": {
     "stations": 48,
     "counts": {
-      "Good": 5,
-      "Moderate": 25,
+      "Good": 6,
+      "Moderate": 24,
       "Unhealthy": 18,
       "Very Unhealthy": 0,
       "Hazardous": 0
@@ -717,9 +717,9 @@
       "state": "selangor",
       "latitude": 3.130875,
       "longitude": 101.60868,
-      "api": 128,
+      "api": 133,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA20B",
@@ -729,7 +729,7 @@
       "longitude": 101.556192,
       "api": 96,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA21B",
@@ -737,9 +737,9 @@
       "state": "selangor",
       "latitude": 3.014899,
       "longitude": 101.413136,
-      "api": 133,
+      "api": 121,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA22B",
@@ -749,7 +749,7 @@
       "longitude": 101.623043,
       "api": 98,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA18B",
@@ -759,7 +759,7 @@
       "longitude": 101.256249,
       "api": 76,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA15W",
@@ -769,7 +769,7 @@
       "longitude": 101.682218,
       "api": 162,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA16W",
@@ -777,9 +777,9 @@
       "state": "wp-kuala-lumpur",
       "latitude": 3.10626,
       "longitude": 101.717931,
-      "api": 150,
+      "api": 152,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA17W",
@@ -789,7 +789,7 @@
       "longitude": 101.690946,
       "api": 151,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "MCAQM001",
@@ -797,9 +797,9 @@
       "state": "selangor",
       "latitude": 2.978644,
       "longitude": 101.490107,
-      "api": 100,
+      "api": 99,
       "band": "Moderate",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     }
   ],
   "worst3": [
@@ -809,9 +809,9 @@
       "state": "negeri-sembilan",
       "latitude": 2.723441,
       "longitude": 101.968395,
-      "api": 168,
+      "api": 169,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA33J",
@@ -819,9 +819,9 @@
       "state": "johor",
       "latitude": 1.494616,
       "longitude": 103.735922,
-      "api": 167,
+      "api": 168,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     },
     {
       "id": "CA23N",
@@ -831,17 +831,12 @@
       "longitude": 101.81153,
       "api": 167,
       "band": "Unhealthy",
-      "time": "2026-10-24T07:00:00+08:00"
+      "time": "2026-10-24T08:00:00+08:00"
     }
   ],
   "trend": {
     "station_id": "CA19B",
     "points": [
-      {
-        "time": "2026-10-21T07:00:00+08:00",
-        "api": 158,
-        "source": "DOE"
-      },
       {
         "time": "2026-10-21T08:00:00+08:00",
         "api": 157,
@@ -1201,6 +1196,11 @@
         "time": "2026-10-24T07:00:00+08:00",
         "api": 128,
         "source": "DOE"
+      },
+      {
+        "time": "2026-10-24T08:00:00+08:00",
+        "api": 133,
+        "source": "DOE"
       }
     ],
     "gaps": [],
@@ -1218,11 +1218,11 @@
   },
   "satellite_date": "2026-10-23",
   "freshness": {
-    "as_of": "2026-10-24T07:18:11+08:00",
-    "reading_age_hours": 0.303056,
+    "as_of": "2026-10-24T08:25:03+08:00",
+    "reading_age_hours": 0.4175,
     "reading_stale": false,
     "threshold_hours": 2,
-    "hotspots_age_hours": 18.169722,
+    "hotspots_age_hours": 19.284167,
     "hotspots_stale": true,
     "satellite_older_than_expected": true
   },
@@ -1231,73 +1231,73 @@
     {
       "source": "DOE-map",
       "url": "https://eqms.doe.gov.my/api3/publicportalapims/mapcaqm",
-      "fetched_at": "2026-10-24T07:18:19+08:00",
-      "sha256": "4a425ccfe1d43ddece50d47e7114af6a1a18a36658efc7e9e4b0995e910c9f88"
+      "fetched_at": "2026-10-24T08:25:13+08:00",
+      "sha256": "b05c3ca96f3f154157cb825b6437e0806bf898c46b241fb9f46e8618795e679c"
     },
     {
       "source": "DOE-trend-0",
-      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-24T07:00:00",
-      "fetched_at": "2026-10-24T07:18:24+08:00",
-      "sha256": "826c845af0e2a7511d67374f5cd463330c689b08e719caa76bfb4dd9df0c3d6e"
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-24T08:00:00",
+      "fetched_at": "2026-10-24T08:25:16+08:00",
+      "sha256": "1fb275eae4e2e82dfe0aded77d507ee8fb336fd6b3ec0c9265cd3478c4bf078e"
     },
     {
       "source": "DOE-trend-24",
-      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-23T07:00:00",
-      "fetched_at": "2026-10-24T07:18:29+08:00",
-      "sha256": "4fe8df26748d4f93982cc3f3f5ac2683cf0743a7dd9b67ba97318826b6d94412"
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-23T08:00:00",
+      "fetched_at": "2026-10-24T08:25:19+08:00",
+      "sha256": "c53d5d6c763e60af12222b362e589a6b0ae641550ee3d5f39b155e8163f2ef10"
     },
     {
       "source": "DOE-trend-48",
-      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-22T07:00:00",
-      "fetched_at": "2026-10-24T07:18:32+08:00",
-      "sha256": "c142817b56ac3008ad6299c1de87c5f7d9de9889d8e3601aef0d44007ac2d9b8"
+      "url": "https://eqms.doe.gov.my/api3/publicportalapims/datatrendchart?stateid=10&datetime=2026-10-22T08:00:00",
+      "fetched_at": "2026-10-24T08:25:23+08:00",
+      "sha256": "1a8c2faa0cdb51226cff0f504e8b5c453fbae722a37d3adfccc8166f6cf39d4c"
     },
     {
       "source": "metmalaysia-forecast",
       "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
-      "fetched_at": "2026-10-24T07:18:37+08:00",
+      "fetched_at": "2026-10-24T08:25:28+08:00",
       "sha256": "bc16bf3908cc284349e272e200fdfe674b6af3eef05b897eb3fa14dfac35078f"
     },
     {
       "source": "asmc-home",
       "url": "https://asmc.asean.org/home/",
-      "fetched_at": "2026-10-24T07:18:45+08:00",
-      "sha256": "04f035ece16caa2a004a875bb4c1b6460918fbcfc7400ff2a8515b2f20c9d4cb"
+      "fetched_at": "2026-10-24T08:25:33+08:00",
+      "sha256": "033003687faa36b21843158ef2939b76deeaa4e94ca4c6092564e5a65c1e5b1c"
     },
     {
       "source": "asmc-hotspots",
       "url": "https://asmc.asean.org/files/warnadv/haze/hotspots/Haze_Hotspots_20261023_164300.kml",
-      "fetched_at": "2026-10-24T07:18:50+08:00",
+      "fetched_at": "2026-10-24T08:25:36+08:00",
       "sha256": "d3b6895011baed6e06737100bce38bfa5ad66df40d379b2d1bf3e19e2efa75fd"
     },
     {
       "source": "naturalearth-admin1",
       "url": "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_1_states_provinces.zip",
-      "fetched_at": "2026-10-24T07:18:55+08:00",
+      "fetched_at": "2026-10-24T08:25:41+08:00",
       "sha256": "efc59726337323058f9446210adc96673179cd344e053666ee3d28cb58ba2b05"
     },
     {
       "source": "nasa-2026-10-24-base",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-24&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-24T07:19:01+08:00",
+      "fetched_at": "2026-10-24T08:25:47+08:00",
       "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
     },
     {
       "source": "nasa-2026-10-24-overlay",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-24&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-24T07:19:04+08:00",
+      "fetched_at": "2026-10-24T08:25:51+08:00",
       "sha256": "732312a3c1325d8f8f2ba6c442e6a8549275ae85c277762a74e771e8822945e4"
     },
     {
       "source": "nasa-2026-10-23-base",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-23&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-24T07:19:11+08:00",
+      "fetched_at": "2026-10-24T08:25:57+08:00",
       "sha256": "413695d4b9b3ca62be653b03162504a66a2df663865bbb892689520c81c76cf1"
     },
     {
       "source": "nasa-2026-10-23-overlay",
       "url": "https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2026-10-23&BBOX=-7%2C94%2C8%2C120&CRS=EPSG%3A4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor%2CVIIRS_SNPP_Thermal_Anomalies_375m_All&FORMAT=image%2Fjpeg&WIDTH=2080&HEIGHT=1200",
-      "fetched_at": "2026-10-24T07:19:19+08:00",
+      "fetched_at": "2026-10-24T08:26:03+08:00",
       "sha256": "d05d0301a788b5d0be4b95ddc1050eeeb46624fc2afa624bc3f8fc3c47209449"
     }
   ],
@@ -1368,7 +1368,7 @@
     "forecast": {
       "location_id": "Tn076",
       "location_name": "Petaling Jaya",
-      "clock_time": "2026-10-24T07:18:11+08:00",
+      "clock_time": "2026-10-24T08:25:03+08:00",
       "tonight": false,
       "url": "https://api.data.gov.my/weather/forecast/?contains=Tn076%40location__location_id&limit=14",
       "days": [
@@ -6764,30 +6764,30 @@
   },
   "images": {
     "a4": {
-      "filename": "a4-2026-10-24-0700.png",
-      "sha256": "b79874c9ec452892c117112ff2e3a7d9734612c204f94b18228e2095e2a7aa69",
-      "bytes": 1273337,
+      "filename": "a4-2026-10-24-0800.png",
+      "sha256": "d410b940fd53c280b7cd387acc487386d2ab2a7c54feab25194183ae3bd90c7f",
+      "bytes": 1270961,
       "width": 2480,
       "height": 3508
     },
     "pj_now": {
-      "filename": "pj-now-2026-10-24-0700.png",
-      "sha256": "1f4c22b1205f50410ed2125da55d157ba70c660f4f33baf45a0a2ba83c54969c",
-      "bytes": 111651,
+      "filename": "pj-now-2026-10-24-0800.png",
+      "sha256": "5955bfc764e3140535240e4e576ef9d6aa9ca134ba25fa60aa875de0bb956525",
+      "bytes": 108702,
       "width": 1080,
       "height": 1600
     },
     "local_trend": {
-      "filename": "local-trend-2026-10-24-0700.png",
-      "sha256": "0d93e088af56394735bbcfb2fb9d38fd0289cbf6012a09f8f60ddfdf36bc9136",
-      "bytes": 140783,
+      "filename": "local-trend-2026-10-24-0800.png",
+      "sha256": "abff8f5abf0cd71c7f5520d2ef48c3be73ed7745878672b0af6fd6212aa5a250",
+      "bytes": 140686,
       "width": 1080,
       "height": 1600
     },
     "regional_context": {
-      "filename": "regional-context-2026-10-24-0700.png",
-      "sha256": "70032a304e1b8e64ec18e71ba0128befcf5ac4f6d544a6c53b5569a26861a93a",
-      "bytes": 723749,
+      "filename": "regional-context-2026-10-24-0800.png",
+      "sha256": "68d3a3db757eb2f16827b9ce215c9f79668a55f49274a157c9c45ed705d4b625",
+      "bytes": 724026,
       "width": 1080,
       "height": 1600
     }
